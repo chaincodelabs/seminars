@@ -8,7 +8,7 @@
 [Mining and Consensus in Mastering Bitcoin - through SPV nodes section](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch08.asciidoc#network-discovery) | 15 min | P2P |
 [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/) | 7 min | compact blocks |
 [Network partition resistance](https://gist.github.com/sdaftuar/c2a3320c751efb078a7c1fd834036cb0) | 15 min | P2P |
-[Deanonymization in the Bitcoin P2P Network](https://papers.nips.cc/paper/6735-deanonymization-in-the-bitcoin-P2P-network.pdf) | 15 min | P2P, privacy |
+[Deanonymization in the Bitcoin P2P Network](https://papers.nips.cc/paper/6735-deanonymization-in-the-bitcoin-p2p-network.pdf) | 15 min | P2P, privacy |
 [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network ](https://eprint.iacr.org/2015/263.pdf) | 60 min | eclipse Attacks, P2P |
 [Eclipse Attacks Video](https://www.usenix.org/node/190891) | 27 min | eclipse Attacks, P2P, video |
 [Dandelion: Redesigning the Bitcoin Network for Anonymity](https://arxiv.org/pdf/1701.04439.pdf) | 20 min | P2P, privacy |
