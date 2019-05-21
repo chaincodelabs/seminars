@@ -6,4 +6,4 @@ Each individual directory represents a weekly study group. These can likely be d
 2. [Mining and Network Propagation](https://github.com/chaincodelabs/study-groups/tree/master/mining-network-prop)
 3. [P2P](https://github.com/chaincodelabs/study-groups/tree/master/p2p)
 4. [Wallet Development and PSBT](https://github.com/chaincodelabs/study-groups/tree/master/wallet-psbt)
-5. Payment Channels and Intro to Lightning
+5. [Payment Channels, Intro to Lightning, and HTLCs](https://github.com/chaincodelabs/study-groups/tree/master/payment-channels-intro-lightning-htlcs)
