@@ -7,3 +7,4 @@ Each individual directory represents a weekly study group. These can likely be d
 3. [P2P](https://github.com/chaincodelabs/study-groups/tree/master/p2p)
 4. [Wallet Development and PSBT](https://github.com/chaincodelabs/study-groups/tree/master/wallet-psbt)
 5. [Payment Channels, Intro to Lightning, and HTLCs](https://github.com/chaincodelabs/study-groups/tree/master/payment-channels-intro-lightning-htlcs)
+6. [Sphinx, Onion Routing and Limitations](https://github.com/chaincodelabs/study-groups/tree/master/sphinx-onion-routing-and-limitations)
