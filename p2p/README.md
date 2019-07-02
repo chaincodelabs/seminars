@@ -12,6 +12,7 @@
 [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network ](https://eprint.iacr.org/2015/263.pdf) | 60 min | eclipse Attacks, P2P |
 [Eclipse Attacks Video](https://www.usenix.org/node/190891) | 27 min | eclipse Attacks, P2P, video |
 [Dandelion: Redesigning the Bitcoin Network for Anonymity](https://arxiv.org/pdf/1701.04439.pdf) | 20 min | P2P, privacy |
+[Bitcoin over Tor isn’t a good idea](https://arxiv.org/pdf/1410.6079.pdf) | 45 min | attacks |
 
 
 ## Discussion Questions
