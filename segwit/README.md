@@ -4,7 +4,7 @@
 
 | Content                                                                                       | Time  | Tags                    |
 |-----------------------------------------------------------------------------------------------|-------|-------------------------|
-| [An Introduction to SegWit](https://segwit.org/understanding-segregated-witness-905cc712c692) | 5 min | primer                  |
+| [What is SegWit?](https://bitcoinmagazine.com/guides/what-is-segwit) | 5 min | primer                  |
 | [Transaction Malleability Primer](https://bitcointechtalk.com/transaction-malleability-explained-b7e240236fc7) | 5 min | tx malleability, primer |
 | [SegWit in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc#segregated-witness) | 25 min |
 | [SegWit's Impact on Scalability](https://diyhpl.us/wiki/transcripts/scalingbitcoin/hong-kong/segregated-witness-and-its-impact-on-scalability/) | 30 min video | 2015, scale |
@@ -17,6 +17,7 @@
 | [The Long Road to SegWit](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/) | 20 min | history |
 | [SegWit Wallet Development](https://bitcoincore.org/en/segwit_wallet_dev/) | 10 min | wallet, technical                  |
 | [Bech32](https://diyhpl.us/wiki/transcripts/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/) | 35 min video | bech32 |
+| [Advanced SegWit](https://www.youtube.com/watch?v=JgNgnwF9hfY) | 90 min video | advanced |
 | [Code Walkthrough](https://docs.google.com/document/d/1qn9SCQj2YQauE83FjglODUZJTQaz9WxrbaTtkP367cA/edit) | 20 min | code                  |
 
 ## Discussion Questions
