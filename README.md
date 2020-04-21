@@ -13,6 +13,8 @@ Each individual directory represents a weekly study group. These can likely be d
 
 ### Lightning
 
-5. [Payment Channels, Intro to Lightning, and HTLCs](/payment-channels-intro-lightning-htlcs)
-6. [Sphinx, Onion Routing and Limitations](/sphinx-onion-routing-and-limitations)
-7. [Channel Probing, BOLTs 1.1, Submarine Swaps/Loops, & HTLC-DASH](/bolts-1.1-HTLC-DASH-channel-probing)
+5. [How the Layers of Lightning Fit Together](/lightning-how-the-pieces-fit-together)
+6. [Payment Channels and HTLCs](/payment-channels-htlcs)
+7. [Sphinx and Onion Routing](/sphinx-onion-routing)
+7. [Limitations](/limitations)
+8. [Channel Probing, Submarine Swaps/Loops, BOLTs 1.1](/bolts-1.1-channel-probing)
