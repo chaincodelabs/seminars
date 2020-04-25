@@ -10,6 +10,7 @@
 [BIP 32 - Hierarchical Deterministic Wallets](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) | 15 min | HD wallets |
 [Hardware Wallets with Bitcoin Core](https://vimeo.com/316634495) | 23 min | hardware wallets, video |
 [Output Descriptors](https://gist.github.com/sipa/e3d23d498c430bb601c5bca83523fa82) | 5 min | output descriptors |
+[Native Descriptor Wallets](https://gist.github.com/achow101/94d889715afd49181f8efdca1f9faa25) | 10 min | descriptor wallets |
 [Coin Selection](https://bitcoinedge.org/tutorial/EN:wallets-coin-selection) | 20 min | coin selection |
 [Fees](https://medium.com/@jimmysong/the-fee-market-explained-76b294947b42) | 5 min | fees |
 [Fee Estimation](https://youtu.be/j0V8elTzYAA) | 35 min | fees, video |
