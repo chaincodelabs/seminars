@@ -7,6 +7,7 @@
 | Content                                                                                       | Time  | Tags                    |
 |-----------------------------------------------------------------------------------------------|-------|-------------------------|
 [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) | 15 min | whitepaper |
+[Bitcoin Whitepaper Errata and Details](https://gist.github.com/harding/dabea3d83c695e6b937bf090eddf2bb3) | 15 min | whitepaper |
 [The Incomplete History of Bitcoin Development](https://b10c.me/blog/004-the-incomplete-history-of-bitcoin-development/) | 10 min | history |
 [If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/) | 10 min | history |
 [Security Models](https://youtu.be/6gGcS4N5Rg4) | 46 min | security, video |
