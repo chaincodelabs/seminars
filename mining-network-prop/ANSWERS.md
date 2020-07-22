@@ -15,7 +15,7 @@ A: There's a bunch of logic for checking if a transaction is standard, such as n
 Second link is the definition of what sorts of transaction types are considered standard. Learn more [here](https://github.com/bitcoin/bitcoin/blob/master/src/script/standard.h#L59) and [here](https://github.com/bitcoin/bitcoin/blob/master/src/policy/policy.cpp#L80).
 
 Q: Why must transactions be > 82 bytes to be relayed?  
-A: Looking at the code, I see a minimum of 82 bytes. Code comments state the following as the motivation: A transaction with 1 segwit input and 1 P2WPHK output has non-witness size of 82 bytes. Transactions smaller than this are not relayed to reduce unnecessary malloc overhead. See [here](https://github.com/bitcoin/bitcoin/blob/master/src/policy/policy.h#L26) and [here](https://github.com/bitcoin/bitcoin/blob/master/src/validation.cpp#L599).
+A: Looking at the code, I see a minimum of 82 bytes. Code comments state the following as the motivation: A transaction with 1 segwit input and 1 P2WPKH output has non-witness size of 82 bytes. Transactions smaller than this are not relayed to reduce unnecessary malloc overhead. See [here](https://github.com/bitcoin/bitcoin/blob/master/src/policy/policy.h#L26) and [here](https://github.com/bitcoin/bitcoin/blob/master/src/validation.cpp#L599).
 
 Q: How does the FIBRE network work and what were the motivations to iterate on the original Relay Network?  
 A: **What?** The Fast Internet Bitcoin Relay Engine (FIBRE) is is a protocol and implementation designed to relay blocks within a network of nodes with almost no delay beyond the speed of light through fiber.
