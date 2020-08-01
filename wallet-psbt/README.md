@@ -13,7 +13,7 @@
 [Native Descriptor Wallets](https://gist.github.com/achow101/94d889715afd49181f8efdca1f9faa25) | 10 min | descriptor wallets |
 [Coin Selection](https://bitcoinedge.org/tutorial/EN:wallets-coin-selection) | 20 min | coin selection |
 [Fees](https://medium.com/@jimmysong/the-fee-market-explained-76b294947b42) | 5 min | fees |
-[Fee Estimation](https://youtu.be/j0V8elTzYAA) | 35 min | fees, video |
+[Fee Estimation](https://youtu.be/PYA1f2xlIOM) | 35 min | fees, video |
 [Transaction Replacement](https://en.bitcoin.it/wiki/Transaction_replacement)  | 5 min | transaction replacement, fees |
 [Fee Bumping and RBF](https://github.com/bitcoinops/scaling-book/blob/add_rbf/1.fee_bumping/fee_bumping.md) | 10 min | fee bumping, RBF |
 [PSBT presented by @achow101](https://www.youtube.com/watch?v=H6xZSRDXUiU) | 30 min | PSBT, video |
