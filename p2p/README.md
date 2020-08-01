@@ -6,15 +6,15 @@
 
 | Content                                                                                       | Time  | Tags                    |
 |-----------------------------------------------------------------------------------------------|-------|-------------------------|
+[Attack the p2p layer of Bitcoin Core with Amiti Uttarwar (until min 41)](https://youtu.be/H-wH6mY9pZo?t=257) | 35 min | p2p attacks |
 [Bitcoin Peer-to-Peer Network with John Newbery](https://youtu.be/eVerdR2hOMw) | 51 min | P2P, video |
-[The Bitcoin Network - start at network discovery section](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch08.asciidoc#network-discovery) | 15 min | P2P |
+[The Bitcoin Network (start at network discovery section)](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch08.asciidoc#network-discovery) | 15 min | P2P |
 [Network partition resistance](https://gist.github.com/sdaftuar/c2a3320c751efb078a7c1fd834036cb0) | 15 min | P2P |
 [Deanonymization in the Bitcoin P2P Network](https://papers.nips.cc/paper/6735-deanonymization-in-the-bitcoin-p2p-network.pdf) | 15 min | P2P, privacy |
 [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://eprint.iacr.org/2015/263.pdf) | 60 min | eclipse Attacks, P2P |
 [Network partitioning & network level privacy attacks](https://youtu.be/StnOVBbIpD8) | 60 min | eclipse Attacks, privacy, P2P, video |
 [Dandelion: Redesigning the Bitcoin Network for Anonymity](https://arxiv.org/pdf/1701.04439.pdf) | 20 min | P2P, privacy |
 [Researching P2P privacy attacks](https://youtu.be/qKNEUfnYue0) | 90 min | P2P, privacy, video |
-[Bitcoin over Tor isn’t a good idea](https://arxiv.org/pdf/1410.6079.pdf) | 45 min | attacks |
 
 
 ## Discussion Questions
