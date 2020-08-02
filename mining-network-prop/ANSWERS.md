@@ -26,8 +26,8 @@ Q: What is a share withholding attack? Why isn't it used more often? What is the
 A: **What?** The block or share witholding attack cause financial harm to a pool operator. A pool miner that solves a block can withhold a valid hash after finding one. The cost to the miner is trivial (from not being awarded the one share) but the cost to the pool is large as the pool loses a chance to earn the block award subsidy + fees.
 **Why?** No profit for the withholding miner, only harm to the pool operator.
 
-Q: How far back into the past can the timestamp in blocks be? Is this validated? How can this be attacked?
+Q: How far back into the past can the timestamp in blocks be? Is this validated? How can this be attacked?  
 A: See [time-warp attack](https://bitcoin.stackexchange.com/a/75834).
 
-Q: Have we seen the difficulty algorithm be manipulated in other projects? Is this a threat to Bitcoin?
+Q: Have we seen the difficulty algorithm be manipulated in other projects? Is this a threat to Bitcoin?  
 A: See Bcash and [coin hopping](https://medium.com/nikoin/coin-hopping-attack-what-after-a-month-of-bitcoin-hardfork-f5a92151fb7b))
