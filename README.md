@@ -10,7 +10,7 @@ Each individual directory represents a weekly study group. These can likely be d
 2. [SegWit](/segwit)
 3. [Mining and Network Propagation](/mining-network-prop)
 4. [P2P](/p2p)
-5. [Wallet Development and PSBT](/wallet-psbt)
+5. [SCRIPT and Wallets](/script-wallets)
 
 ### Lightning
 
