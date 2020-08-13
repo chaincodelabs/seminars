@@ -23,3 +23,6 @@ A: Verification includes hashing, and amount of hashing is proportional to the s
 
 Q: Where are the locking script operations in P2WPKH/P2WSH?  
 A: Non-witness nodes never receive any witness data or witness blocks (BIP144), and only validate the spending of [0 20/32b-hash] witness script (no witness data is available and is not evaluated). The correctness of a witness spend therefore differs between old/new nodes. If the strong-chain is a witness chain, it is safe to assume old nodes will follow this chain, and the correctness of witness transactions is implied by POW for these older nodes. If the strong-chain is not a witness chain, new nodes will fork off (weak-chain), but old nodes will continue to follow it. It is not safe to conduct witness transactions on this non-witness strong-chain. This is why miner-support for SegWit is relevant during activation.
+
+Q: [optional] What are some address format design goals and requirements discussed in the bech32 talk? How problematic is the bech32 mutability issue for v0 segwit addresses versus for taproot?  
+A: See [bech32 mutability](https://bitcoinops.org/en/newsletters/2019/12/28/#bech32-mutability) write-up for more info.
