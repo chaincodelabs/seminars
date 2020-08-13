@@ -33,3 +33,4 @@
 1. How did users know whether miners support SegWit prior to activation?
 1. How does a (virtual block increase) affect IBD cost over time?
 1. Where are the locking script operations in P2WPKH/P2WSH?
+1. What are some address format design goals and requirements discussed in the bech32 talk? How problematic is the [bech32 mutability](https://bitcoinops.org/en/newsletters/2019/12/28/#bech32-mutability) issue for v0 segwit addresses versus for taproot?
