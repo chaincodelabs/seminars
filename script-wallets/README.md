@@ -10,7 +10,7 @@
 [Miniscript: Streamlined Bitcoin Scripting](https://medium.com/blockstream/miniscript-bitcoin-scripting-3aeff3853620) | 11 min | miniscript |
 [Taproot and Policy with James Chiang](https://youtu.be/EdRm_mnoCWc) | 26 min | script, video, _optional_ |
 [HD Wallets](https://learnmeabitcoin.com/technical/hd-wallets) | 10 min | HD wallets |
-[Native Descriptor Wallets](https://gist.github.com/achow101/94d889715afd49181f8efdca1f9faa25) | 10 min | descriptors |
+Native Descriptor Wallets - [gist](https://gist.github.com/achow101/94d889715afd49181f8efdca1f9faa25) or [presentation](https://diyhpl.us/wiki/transcripts/advancing-bitcoin/2020/2020-02-06-andrew-chow-descriptor-wallets/) | 10 or 18 min | descriptors |
 [Coin Selection](https://youtu.be/ZMzVIi1lgyw) | 20 min | coin selection |
 [An introduction to Bitcoin Core fee estimation](https://bitcointechtalk.com/an-introduction-to-bitcoin-core-fee-estimation-27920880ad0) | 11 min | fees |
 [Fee Bumping and RBF](https://github.com/bitcoinops/scaling-book/blob/add_rbf/1.fee_bumping/fee_bumping.md) | 20 min | fee bumping, RBF |
