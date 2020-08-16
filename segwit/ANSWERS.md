@@ -12,6 +12,9 @@ A: TX version field for example is checked by `op_checksequenceverify`, a script
 Q: What is weight versus virtual bytes? How do they differ?  
 A: Weight units are a measurement used to compare the size of different Bitcoin transactions to each other in proportion to the consensus-enforced maximum block size limit. Virtual size (vsize), also called virtual bytes (vbytes), are an alternative measurement, with one vbyte being equal to four weight units ([source](https://en.bitcoin.it/wiki/Weight_units#:~:text=Weight%20units%20are%20a%20measurement,enforced%20maximum%20block%20size%20limit.&text=Virtual%20size%20(vsize)%2C%20also,equal%20to%20four%20weight%20units.)). Segwit does not make transactions smaller (in terms of total size and how much data you need to transmit over the p2p network), but does reduce an individual transaction’s effective size on-chain.
 
+Q: What rationale was used to decide on the 4 MB SegWit block weight (3 x old_tx_bytes + segwit_tx_bytes), instead of say a 2 MB block weight (old_tx_bytes + segwit_tx_bytes)?  
+A: The factor of 4 helps to create more of a balance between the cost of creating an output and the cost of spending an output. In typical transaction data, an output can be created using around 32 bytes, but spending it requires around 108 bytes. With the old metric, every byte of data you included in a transaction increased its fee. So, as a result, it cost more to spend an output than it did to create one. However, by using the new weight metric, there is more of an even balance between the cost of creating an output and spending an output ([source](https://learnmeabitcoin.com/technical/transaction-weight)). This ultimately corrected the misalignment of incentives that would have likely led to more UTXO bloat.
+
 Q: How is witness data committed to the block?  
 A: Witness program is a special type of scriptPubKey (locking script) that has a 1-byte push opcode (version byte) and then 2-40 byte data push.
 
