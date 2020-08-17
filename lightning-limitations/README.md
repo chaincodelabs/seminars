@@ -4,12 +4,12 @@
 
 | Content                                                                                       | Time  | Tags                    |
 |-----------------------------------------------------------------------------------------------|-------|-------------------------|
-[Limitations of lightweight clients](https://youtu.be/ULVItljEiFE) | 18 min | spv |
 [Lightning Network 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e#:~:text=Lightning%20Problem%201%3A%20Liquidity) - starting at Lightning Problem 1: Liquidity | 20 min | limitations |
 [Lightning Limitations](http://diyhpl.us/wiki/transcripts/boltathon/2019-04-06-alex-bosworth-major-limitations/) | 35 min | limitations |
+[Limitations of lightweight clients](https://youtu.be/ULVItljEiFE) | 18 min | spv, video |
+[Fee Management](https://youtu.be/r8S3iELg9_U) | 29 min | fees, video |
 [Incentive problems in the network](https://youtu.be/lByQUr7zPr0) | 34 min | limitations, video |
 [Routing Failures](https://youtu.be/z5vEyvc2vrE) | 17 min | limitations, video |
-[Lightning Security Analysis](https://diyhpl.us/wiki/transcripts/blockchain-protocol-analysis-security-engineering/2017/lightning-network-security-analysis/) | 25 min | security |
 [Lightning Attack Vectors](https://youtu.be/R5cSrftd8nc) | 29 min | security, video |
 [On the Difficulty of Hiding the Balance of Lightning Network Channels](https://eprint.iacr.org/2019/328.pdf) | Start at section 3, 30 min | privacy |
 

@@ -11,7 +11,6 @@
 [Onion Routing - deep dive](https://youtu.be/D4kX0gR-H0Y) | 38 min | onion routing, video |
 [Amount-independent payment routing in Lightning Networks](https://medium.com/coinmonks/amount-independent-payment-routing-in-lightning-networks-6409201ff5ed) | 6 min | routing |
 [Atomic multi-path payments (AMP)](https://youtu.be/Og4TGERPZMY) | 21 min | AMP, video |
-[Fee Management](https://youtu.be/r8S3iELg9_U) | 29 min | fees, video |
 [Sphinx](https://cypherpunks.ca/~iang/pubs/Sphinx_Oakland09.pdf) | Intro through 2.1, 10 min | sphinx, _optional_ |
 
 ## Discussion Questions
