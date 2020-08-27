@@ -8,10 +8,6 @@ A: **Problem:** Sender knows too much about the receiver when routing, since the
 Q: Would it make sense to chain multiple rendezvous meeting points?  
 A: The rendezvous node, even if it's a sybil of the sender, should only know the next hop. Onion routing should hide the rest of the route from the rendezvous node to the receiver.
 
-### Neutrino
-Q: If Neutrino becomes the preferred way of using Bitcoin, wouldn't it give too much power to the miners since Neutrino clients might blindly follow the longest chain in the case there is a fork? Should Neutrino be coupled with a trusted server (that runs a full node) by default? Should it be disabled by default in Bitcoin Core?  
-A: Further [reading](https://medium.com/@nicolasdorier/neutrino-is-dangerous-for-my-self-sovereignty-18fac5bcdc25)
-
 ### Watchtower
 Q: How do watchtowers work with non-advertised channels when part of the graph is not known? Or with Trampoline when routing calculation is outsourced?  
 A: Channels are not relevant to watchtowers as they only need to watch the chain for specific closing transactions.
