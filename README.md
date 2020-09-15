@@ -1,8 +1,8 @@
-# Study Groups for the Chaincode Residency
+# Study Groups for protocol developers
 
 ### Please consider adding resources keep these sessions lists fresh. PRs welcome!
 
-Each individual directory represents a weekly study group. These can likely be done in any order, but we did them as follows:
+Each individual directory represents a weekly study group.
 
 ### Bitcoin
 
