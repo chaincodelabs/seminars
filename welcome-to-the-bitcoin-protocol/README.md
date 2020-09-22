@@ -12,8 +12,8 @@
 [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) | 25 min | history |
 [If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/) | 10 min | history |
 [Bitcoin’s Security Model: A Deep Dive](https://www.coindesk.com/bitcoins-security-model-deep-dive) | 15 min | security |
-[Security Models with John Newbery](https://youtu.be/6gGcS4N5Rg4) | 46 min | security, video |
 [The Onion Model of Blockchain Security](https://insights.deribit.com/market-research/the-onion-model-of-blockchain-security-part-1/) | 7 min | security |
+[Security Models with John Newbery](http://diyhpl.us/wiki/transcripts/chaincode-labs/2019-06-17-john-newbery-security-models/) | 46 min | security, video |
 [Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages](https://www.reddit.com/r/Bitcoin/comments/438hx0/a_trip_to_the_moon_requires_a_rocket_with/) | 10 min | scaling |
 [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8) | 9 min | Bitcoin Core development, *optional* |
 

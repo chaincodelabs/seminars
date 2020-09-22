@@ -5,15 +5,16 @@
 | Content                                                            | Time       | Tags                    |
 |--------------------------------------------------------------------|------------|-------------------------|
 [Mining and Consensus in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch10.asciidoc) | 75 min | mining, pools |
+[The mempool and mining](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/Mempool-and-mining) | 15 min | mempool, mining |
 [Managing Centralization in Mining](https://www.youtube.com/watch?v=IW2bjXQLnY0) | 20 min | mining, centralization, video |
 [Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf) | 30 min | mining |
 [Mining: No Good, The Bad, and The Ugly with Matt Corallo](https://www.youtube.com/watch?v=k_z-FBAil6k) | 15 min | mining, stratum, video |
 [Optimal pool abuse strategy](http://bitcoin.atspace.com/poolcheating.pdf) | 10 min | mining pools |
 [Analysis of Bitcoin Pooled Mining Reward Systems](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/bitcoin-pool.pdf) (Intro, Pay-per-share, Pay-per-last-N-shares sections) | 30 min | mining pools |
-[Why Bitcoin Mining Pools Aren’t Incentivized to Broadcast Blocks Quickly](https://bitcoinmagazine.com/articles/why-bitcoin-mining-pools-aren-t-incentivized-to-broadcast-blocks-quickly-1475249510/) | 10 min | spy mining |
+[Why Bitcoin Mining Pools Aren't Incentivized to Broadcast Blocks Quickly](https://bitcoinmagazine.com/articles/why-bitcoin-mining-pools-aren-t-incentivized-to-broadcast-blocks-quickly-1475249510/) | 10 min | spy mining |
 [P2P pools](https://en.bitcoin.it/wiki/P2Pool) | 20 min | mining pools |
 [The problem with ASIC Boost](http://www.mit.edu/~jlrubin//public/pdfs/Asicboost.pdf) | 15 min | asic boost |
-[Advances in Block Propagation with Greg Maxwell](https://www.youtube.com/watch?v=EHIuuKCm53o) | 70 min | block propagation, video |
+[Advances in Block Propagation with Greg Maxwell](https://diyhpl.us/wiki/transcripts/gmaxwell-2017-11-27-advances-in-block-propagation/) | 60 min | block propagation, video |
 [Compact Blocks/FIBRE background](https://podcast.chaincode.com/2020/03/12/matt-corallo-6.html) | 32 min | FIBRE, history, podcast |
 [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/) | 10 min | compact blocks |
 [Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/) | 10 min | relay network, FIBRE |
