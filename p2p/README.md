@@ -37,3 +37,8 @@ Attacking p2p of Bitcoin Core w/ Amiti Uttarwar ([video (until min 41)](https://
     a) All nodes obey the protocol
     b) Each node generates precisely one transaction
     c) All Bitcoin nodes run Dandelion
+
+### Transaction Trivia
+1. Why must transaction unlocking scripts only push numbers to be relayed? What output scripts are 'IsStandard'?
+1. Why must transactions be > 82 bytes to be relayed?
+1. Why is the blockheight now encoded in the coinbase transaction?

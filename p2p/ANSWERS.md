@@ -20,3 +20,13 @@ A: 10% is what is suggested in BIP156, certainly a node could override that and 
 
 Q: Dandelion++ is meant to address the assumptions from the original Dandelion paper. How is that achieved?  
 A: It does not relayed to random peers in the stem phase but chooses up to two constant peers to forward to, which are changed after an epoch. Own txs are sent out to these same nodes. Diffusion is decided based on node id and epoch, so within one epoch the node diffuses all messages or relay all.
+
+Q: Why must transaction unlocking scripts only push numbers to be relayed? What output scripts are 'IsStandard'?  
+A: There's a bunch of logic for checking if a transaction is standard, such as number of inputs, if its under the dust threshold, etc. I linked the code for the function on the right (policy.cpp).
+Second link is the definition of what sorts of transaction types are considered standard. Learn more [here](https://github.com/bitcoin/bitcoin/blob/master/src/script/standard.h#L59) and [here](https://github.com/bitcoin/bitcoin/blob/master/src/policy/policy.cpp#L80).
+
+Q: Why must transactions be > 82 bytes to be relayed?  
+A: Looking at the code, I see a minimum of 82 bytes. Code comments state the following as the motivation: A transaction with 1 segwit input and 1 P2WPKH output has non-witness size of 82 bytes. Transactions smaller than this are not relayed to reduce unnecessary malloc overhead. See [here](https://github.com/bitcoin/bitcoin/blob/master/src/policy/policy.h#L26) and [here](https://github.com/bitcoin/bitcoin/blob/master/src/validation.cpp#L599).
+
+Q: Why is the blockheight now encoded in the coinbase transaction?  
+A: To force unique coinbase txids. Before encoding the block height into the coinbase, two coinbase transactions could be the same resulting in one txid for two transactions. Learn more [here](https://learnmeabitcoin.com/glossary/txid#footnote-unique-txids) and see the [PR](https://github.com/bitcoin/bitcoin/pull/1526).
