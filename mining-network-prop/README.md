@@ -10,7 +10,8 @@
 [Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/) | 10 min | relay network, FIBRE |
 [Mining: No Good, The Bad, and The Ugly](https://www.youtube.com/watch?v=k_z-FBAil6k) | 15 min | mining, stratum, video |
 [Why Bitcoin Mining Pools Aren't Incentivized to Broadcast Blocks Quickly](https://bitcoinmagazine.com/articles/why-bitcoin-mining-pools-aren-t-incentivized-to-broadcast-blocks-quickly-1475249510/) | 10 min | spy mining |
-[Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf) | 30 min | mining |
+[Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf) | 30 min | selfish mining |
+[Demystifying The Selfish Mining Bet](https://eklitzke.org/demystifying-the-selfish-mining-bet) | 10 min | selfish mining |
 [Analysis of Bitcoin Pooled Mining Reward Systems](https://sites.cs.ucsb.edu/~rich/class/cs293b-cloud/papers/bitcoin-pool.pdf) (Intro, Pay-per-share, Pay-per-last-N-shares, Attack Vectors sections) | 30 min | mining pools |
 [The problem with ASIC Boost](http://www.mit.edu/~jlrubin//public/pdfs/Asicboost.pdf) | 15 min | asic boost |
 [Compact Blocks/FIBRE background](https://podcast.chaincode.com/2020/03/12/matt-corallo-6.html) | 32 min | FIBRE, history, podcast, *optional* |
