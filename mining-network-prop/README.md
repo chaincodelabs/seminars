@@ -18,11 +18,10 @@
 
 ## Discussion Questions
 
-1. How can changes to Bitcoins p2p protocol effect mining? (Advances in Block Propagation)
+1. How can changes to Bitcoins p2p protocol affect mining? (Advances in Block Propagation)
 1. How does the FIBRE network work and what were the motivations to iterate on the original Relay Network? (Relay Networks and FIBRE)
-1. Do pool parallelize work among client miner to avoid them starting on the same range of search space and so increase chance of finding a block?
 1. What are 'Weak Blocks' and why are they used in pooled mining?
-1. Consider the following scenario: Segwit2x didn’t happen (or miners didn’t throw in support for it) and UASF (BIP148) ended up causing a chain split on August 1st, 2017, with minority mining support (e.g. ~10-20%). What would likely happen as a result?
+1. Consider the following scenario: Segwit2x didn’t happen (or miners did not support it) and UASF (BIP148) ended up causing a chain split on August 1st, 2017, with minority mining support (e.g. ~10-20%). What would likely happen as a result?
 1. How far back into the past can the timestamp in blocks be? Is this validated? How can this be attacked?
 1. What is the 'Selfish Miner' attack? How does it work? Is it a real threat? Why or why not? (Majority is not Enough)
 1. What is a BGP Hijack attack? What prevents it? (Mining: No Good, The Bad, and The Ugly)
