@@ -9,9 +9,6 @@ A: SPV nodes have the ability to verify that a payment has been included in the 
 Q: How have show-stopping bugs or disruptions to the network been handled in the past?  
 A: At one time, the community was small enough that Satoshi and early maintainers were able to simply make code changes, entice users to upgrade, and ask miners to do any reorganizing necessary to remedy major bugs, such one where a transaction was introduced in a block that caused an overflow.
 
-Q: In your opinion, what did Satoshi "invent" that was truly innovative?  
-A: One of Satoshi's key inventions was the minting and transferring of money in a non-reversible way by using Proof of Work.
-
 Q: What is a Sybil Attack, and how has it been solved in the past?  
 A: A Sybil attack is one where a nefarious actor creates enough fake nodes (one node pretending to be many) to take over a network's consensus mechanism. In the past, two possible ways of preventing Sybil Attacks were 1) to have a gatekeeper allowing entry into a network (which creates the need for trust and a single point of failure), or 2) to require each node in a network to periodically solve a Proof-of-Work puzzle; this would be no problem for honest nodes, but difficult for Sybil nodes. This latter strategy creates a scenario where honest nodes end up needing to run as many nodes as they can computationally afford, so that attackers don't gain a moderate advantage by have >1 identities while honest actors only claim 1.
 
@@ -20,12 +17,3 @@ A: The fair exchange problem is the question of how to ensure that money is tran
 
 Q: Why do the authors of Bitcoin's Academic Pedigree believe that bitcoin was ignored by academia for a long time? What reputation/relationship does bitcoin have with academia today?  
 A: The authors believe that academia has a resistance to radical ideas, which Bitcoin was, being that it was not formally peer reviewed and didn't provide much reference to previous work in related fields. The authors assert that academics have spent time in recent years ignoring Bitcoin or arguing why it can't work, despite the fact that it already does work. Today, Bitcoin remains somewhat unconnected from the disciplines that it's based on. For instance, ongoing Proof-of-Work research today continues without making reference to Bitcoin.
-
-Q: How do you judge the merits or value of a good project/experiment?  
-A:  
-
-* If the main goal of a project is to market is to maximize the sales of its coin, it's not a good project; analogy being to that of a company whose only business plan is market its stock.
-* Where are the principals of the project/business located? Are they named? Can you validate that they are who they say the are? What regulatory authorities oversee them?
-* What legal recourse do you have in case of fraud?
-* Is the company running the project incorporated? Do they have the appropriate licenses? Do they have a legal authority to issue stock?
-* Basically, do diligence on projects as you would on a company.
