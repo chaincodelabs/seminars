@@ -1,6 +1,6 @@
 # Welcome to the Bitcoin Protocol Development Study Groups
 
-*These study groups assume a basic level of Bitcoin protocol knowledge. If you haven't reviewed [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) or [Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin) you should begin there before starting with these resources.*
+*These study groups assume a basic level of Bitcoin protocol knowledge. You should begin with reading [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) before starting with these resources.*
 
 ## Reading
 
