@@ -16,7 +16,7 @@ Q: What rationale was used to decide on the 4 MB SegWit block weight (3 x old_tx
 A: The factor of 4 helps to create more of a balance between the cost of creating an output and the cost of spending an output. In typical transaction data, an output can be created using around 32 bytes, but spending it requires around 108 bytes. With the old metric, every byte of data you included in a transaction increased its fee. So, as a result, it cost more to spend an output than it did to create one. However, by using the new weight metric, there is more of an even balance between the cost of creating an output and spending an output ([source](https://learnmeabitcoin.com/technical/transaction-weight)). This ultimately corrected the misalignment of incentives that would have likely led to more UTXO bloat.
 
 Q: How is witness data committed to the block?  
-A: Witness program is a special type of scriptPubKey (locking script) that has a 1-byte push opcode (version byte) and then 2-40 byte data push.
+A: SegWit nodes require a new commitment to the block's coinbase transaction, if any SegWit transactions are found in the block. This commitment is recorded in a `scriptPubKey` using a double-sha256 hash of the witness root hash (a merkle root of all of `wtxid`s) and the witness reserved value (a reserved value that can be used for SegWit upgrades in the future).
 
 Q: What is the quadratic sighash problem prior to Segwit? How does [BIP 143](https://github.com/bitcoin/bips/blob/master/bip-0143.mediawiki) solve this?  
 A: Verification includes hashing, and amount of hashing is proportional to the size of the transaction. A specially crafted transaction could take minutes to verify. Explanation by [Sipa](https://youtu.be/NOYNZB5BCHM?t=1625).
