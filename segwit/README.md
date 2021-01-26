@@ -20,7 +20,7 @@
 
 1. Is a non-segwit node considered a full node?
 1. What is the difference between a hard and soft fork? (SegWit in Mastering Bitcoin)
-1. How is ECDSA malleable? (SegWit in Mastering Bitcoin)
+1. How is ECDSA malleable? (Transaction Malleability)
 1. Why do second layer protocols (like Lightning) require transaction malleability to be fixed? (SegWit in Mastering Bitcoin/SegWit Benefits)
 1. How should one understand anyone-can-spend outputs? Do nodes with and without the SegWit upgrade behave differently while validating or enforcing? (SegWit in Mastering Bitcoin)
 1. How does new script versions remain backwards compatible? How were script upgrades done in the past? (SegWit in Mastering Bitcoin/SegWit Benefits/Advanced SegWit)
