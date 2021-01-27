@@ -28,7 +28,7 @@
 1. What was the quadratic sighash problem prior to Segwit? How does [BIP 143](https://github.com/bitcoin/bips/blob/master/bip-0143.mediawiki) solve this? (SegWit's Impact on Scalability/SegWit Benefits)
 1. What is weight versus virtual bytes? How do they differ? How does weight change the relative costs of inputs and outputs? (Advanced SegWit)
 1. What rationale was used to decide on the 4 MB SegWit block weight (3 x old_tx_bytes + segwit_tx_bytes), instead of say a 2 MB block weight (old_tx_bytes + segwit_tx_bytes)? (SegWit's Impact on Scalability/Advanced SegWit)
-1. How does a virtual block increase affect IBD cost over time? (Advanced SegWit)
+1. How does a virtual block increase affect IBD cost over time? (Advanced SegWit/SegWit Costs)
 1. What is ASIC BOOST and what did it have to do with SegWit's deployment? (Gregory Maxwell’s Inhibition Proposal)
 1. How could BIP 9 be considered controversial within the community? How was BIP 148 received when first proposed? (Advanced SegWit)
 1. How did users know whether miners support SegWit prior to activation? (The Long Road to SegWit)
