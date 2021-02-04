@@ -8,7 +8,7 @@
 |-----------------------------------------------------------------------------------------------|-------|-------------------------|
 Attacking p2p of Bitcoin Core w/ Amiti Uttarwar ([video (until min 41)](https://youtu.be/H-wH6mY9pZo?t=257) or [transcript](https://diyhpl.us/wiki/transcripts/la-bitdevs/2020-04-16-amiti-uttarwar-attacking-bitcoin-core/)) | 35 min | p2p attacks |
 [The Bitcoin p2p Network with John Newbery](https://diyhpl.us/wiki/transcripts/scalingbitcoin/stanford-2017/edgeplusplus/p2p-john-newbery/) | 51 min | P2P, video |
-[The Bitcoin Network (start at network discovery section)](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch08.asciidoc#network-discovery) | 15 min | P2P |
+[The Bitcoin Network in Mastering Bitcoin (start at Network Discovery section)](https://github.com/bitcoinbook/bitcoinbook/blob/b5a7b5df3eddb332311ed97af09b678257ce62ca/ch08.asciidoc#network-discovery) | 15 min | P2P |
 [Network partition resistance](https://gist.github.com/sdaftuar/c2a3320c751efb078a7c1fd834036cb0) | 15 min | P2P |
 [Deanonymization in the Bitcoin P2P Network](https://papers.nips.cc/paper/6735-deanonymization-in-the-bitcoin-p2p-network.pdf) | 15 min | P2P, privacy |
 [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://eprint.iacr.org/2015/263.pdf) | 60 min | eclipse attacks, P2P |
