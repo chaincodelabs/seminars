@@ -16,7 +16,7 @@ A: **What?** The block or attack cause financial harm to a pool operator. A pool
 
 Q: What is a Share Withholding Attack? Why isn't it used more often? What is the defense?  
 A: **What?** In the Share withholding Attack (SWH), the miner withholds shares and delays their submissions to increase the payout of the shares within the victim mining pool. It can provide reward gain if the attacker has some knowledge of the block submission timing. 
-**Why?** It is hard to detect so cannot be said the how often this attack happens. It is also risky for the attacker since he can lose money if it fails. 
+**Why?** It is hard to detect so it cannot be said how often this attack happens. It is also risky for the attacker since he can lose money if it fails. 
 **Defense?** To defend against BWH attack, the most straightforward strategy is to give a bonus to every miner who has found a full solution. Against SWH attack, a pool can adopt reward distribution mechanism that ensure the incentive compatibility of each share, requiring that the estimated revenue/reward of each miner does not greatly depend on the time duration of finding a full solution.
 
 Q: How do P2Pools work? Advantages and disadvantages? (Mining and Consensus in Mastering Bitcoin)
