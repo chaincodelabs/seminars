@@ -27,6 +27,7 @@
 1. What is the 'Selfish Mining' attack? How does it work? Is it a real threat? Why or why not? (Majority is not Enough)
 1. What is a BGP Hijack attack? What prevents it? (Mining: No Good, The Bad, and The Ugly)
 1. What is a block withholding attack? Why isn't it used more often? What is the defense?
+1. What is a share withholding attack? Why isn't it used more often? What is the defense?
 1. How do P2Pools work? Advantages and disadvantages? (Mining and Consensus in Mastering Bitcoin)
 1. Why not encrypt all communications with pool operators?
 1. Why would some miners use parts of the version field as a nonce? What effect did this have on nodes? (Mining and Consensus in Mastering Bitcoin)
