@@ -10,10 +10,6 @@ A: **What?** The Fast Internet Bitcoin Relay Engine (FIBRE) is is a protocol and
 **Why?** Miners want to know ASAP if a new block is found to start mining on it. The previously used TPC is not suitable to relay blocks over long distances with high latency (i.e. around the globe), since TCP needs a round trip for error correction. See [here](http://bitcoinfibre.org/fibre-howto.html).
 
 Q: What is a share withholding attack? Why isn't it used more often? What is the defense?  
-A: **What?** The block or share witholding attack cause financial harm to a pool operator. A pool miner that solves a block can withhold a valid hash after finding one. The cost to the miner is trivial (from not being awarded the one share) but the cost to the pool is large as the pool loses a chance to earn the block award subsidy + fees.  
-**Why?** No profit for the withholding miner, only harm to the pool operator.
-
-Q: What is a share withholding attack? Why isn't it used more often? What is the defense?  
 A: **What?** In the Share withholding Attack (SWH), the miner withholds shares and delays their submissions to increase the payout of the shares within the victim mining pool. It can provide reward gain if the attacker has some knowledge of the block submission timing. **Why?** It is hard to detect so cannot be said the how often this attack happens. It is also risky for the attacker since he can lose money if it fails. **Defense?** To defend against BWH attack, the most straightforward strategy is to give a bonus to every miner who has found a full solution. Against SWH attack, a pool can adopt reward distribution mechanism that ensure the incentive compatibility of each share, requiring that the estimated revenue/reward of each miner does not greatly depend on the time duration of finding a full solution.
 
 Q: How do P2Pools work? Advantages and disadvantages? (Mining and Consensus in Mastering Bitcoin)
