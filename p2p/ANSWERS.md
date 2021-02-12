@@ -37,8 +37,8 @@ A: Bitcoin contains standardness checks for a transaction's version, its inputs,
 - If the output is arbitrary data (`NULL_DATA`), the node must accept `NULL_DATA` outputs (currently this is hardcoded to `true` via [`DEFAULT_ACCEPT_DATACARRIER`](https://github.com/bitcoin/bitcoin/blob/bd6af53e1f8ec9d25cedf0bf36c98b99a8d88774/src/script/standard.h#L15)) and the arbitrary data must be below a certain byte size ([source](https://github.com/bitcoin/bitcoin/blob/fa0074e2d82928016a43ca408717154a1c70a4db/src/policy/policy.cpp#L68))
 - Across all outputs, [only one](https://github.com/bitcoin/bitcoin/blob/fa0074e2d82928016a43ca408717154a1c70a4db/src/policy/policy.cpp#L133) may contain arbitrary data via `NULL_DATA`
 
-Q: Why must transactions be > 82 bytes to be relayed?  
-A: Looking at the code, I see a minimum of 82 bytes. Code comments state the following as the motivation: A transaction with 1 segwit input and 1 P2WPKH output has non-witness size of 82 bytes. Transactions smaller than this are not relayed to reduce unnecessary malloc overhead. See [here](https://github.com/bitcoin/bitcoin/blob/master/src/policy/policy.h#L26) and [here](https://github.com/bitcoin/bitcoin/blob/master/src/validation.cpp#L599).
+Q: Why must transactions be no less than 82 bytes to be relayed?  
+A: This is a mitigation of Merkle tree weakness [CVE-2017-12842](https://bitcointechweekly.com/front/cve-2017-12842-leaf-node-weakness-trusted-merkle-tree-depth-for-safe-tx-inclusion-proofs-without-a-soft-fork/). See [here](https://github.com/bitcoin/bitcoin/pull/11423) and [here](https://github.com/bitcoin/bitcoin/pull/16885).  
 
 Q: Why is the blockheight now encoded in the coinbase transaction?  
 A: To force unique coinbase txids. Before encoding the block height into the coinbase, two coinbase transactions could be the same resulting in one txid for two transactions. Learn more [here](https://learnmeabitcoin.com/glossary/txid#footnote-unique-txids) and see the [PR](https://github.com/bitcoin/bitcoin/pull/1526).
