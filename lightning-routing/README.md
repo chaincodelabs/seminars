@@ -17,11 +17,14 @@ Rendezvous routing ([presentation](https://youtu.be/Ms2WwRzBdkM) or [wiki write-
 ## Discussion Questions
 
 ### Trampoline Payments
-1. Can trampoline payments be combined with AML to mitigate privacy issues?
+
+1. Can trampoline payments be combined with atomic multi-path payments to mitigate privacy issues?
 
 ### Rendezvous Routing
-2. Can you explain rendezvous routing in plain English?
-3. Would it make sense to chain multiple rendezvous meeting points?
+
+1. Explain rendezvous routing in plain English.
+1. Would it make sense to chain multiple rendezvous meeting points?
 
 ### Watchtowers
-5. How do watchtowers work with non-advertised channels when part of the graph is not known? Or with Trampoline when routing calculation is outsourced?
+
+1. How do watchtowers work with non-advertised channels when part of the graph is not known? Or with trampoline when the routing calculation is outsourced?

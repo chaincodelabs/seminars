@@ -18,10 +18,13 @@
 ## Discussion Questions
 
 ### eltoo
-1. why do we need sighash_noinput for eltoo?
+
+1. Why do we need SIGHASH_NOINPUT for eltoo?
 
 ### Submarine swaps
-1. Can an adversary make a swap and wait for the last minute before the lock expires and then reveal the secret on one chain and tries to use the signature on the other? If the blocks there are pretty fast he might be able to get off with the money from both chains.
+
+1. Can an adversary make a swap and then wait until a moment before the lock expiry to reveal the secret on one chain while using the signature on the other? If the blocks are fast, could an attacker be able to steal the money from both chains?
 
 ### Payment Points
+
 1. How does a wormhole attack work?
