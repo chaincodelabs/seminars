@@ -14,8 +14,8 @@
 
 ## Discussion Questions
 
-1. How is the payment hash sent over to the payer?
-2. Explain how the timeout mechanism works for in-flight HTLCs?
-3. How would an offline vending machine work?
-4. Why did transaction malleability need to be fixed on the base layer and how would it have affected Lightning?
-5. What are routing hints and why are they important for private channels?
+1. How is the payment hash sent to the payer?
+1. Explain how the timeout mechanism works for in-flight HTLCs?
+1. How would an offline vending machine work?
+1. Why did transaction malleability need to be fixed on the base layer and how would it have affected Lightning?
+1. What are routing hints and why are they important for private channels?

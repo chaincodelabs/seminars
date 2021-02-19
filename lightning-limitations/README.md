@@ -16,15 +16,19 @@
 ## Discussion Questions
 
 ### Limitations of lightweight clients
+
 1. As a service, why is it easier to send funds than receive them?
 
 ### Fee Management
-2. Why would the fundee care about the size the fees if it’s a funder that’s paying the fees?
-3. If you disagree about the fees with your peer, how do you negotiate them?
+
+1. Why would the fundee care about the size the fees if it’s a funder that’s paying the fees?
+1. If you disagree about the fees with your peer, how do you negotiate them?
 
 ### Liquidity/Capacity
-4. What’s to prevent an attacker from temporarily drying up liquidity in the network, by sending payments to himself using really long routes, but does not complete the payments? by using X amount of funds, he can potentially lock up an amount several times of X, depending on how long he wants to construct the routes. This attack would not cost the attacker any money, only time. It would not be possible to attribute fault to the attacker as LN is onion-routed, so the routing nodes would have no idea where exactly the money is held up. The routing nodes could also be doing this attack among themselves, to compete for market share.
+
+1. What's to prevent an attacker from temporarily drying up network liquidity by sending himself payments using really long routes without completing the payments? By using X amount of funds, an adversary can potentially lock up an amount several times of X, depending on how long she wants to construct the routes. This attack would not cost the attacker any money, only time. It would not be possible to attribute fault to the attacker as LN is onion-routed, so the routing nodes would have no idea where exactly the money is held up. The routing nodes could also be doing this attack among themselves, to compete for market share.
 
 ### Balance Probing Attack
-5. 	It sounds like randomly denying a percentage of payment requests would be an efective countermeasure. Outside of the potential loss of routing fees, are there any other downsides?
-3. Another countermeasure was to remove error messages when a route fails. Besides having less clarity as to why a path failed when trying to find a route for a payment, are there any other reasons to include these error messages? When trying to find a path, if one of the links did not have enough capacity and you got a generic error message, you'd still keep trying enough paths and eventually get the payment through. If the problem was something else, like in the attack the destination node doesn't have the preimage for the HTLC, then after enough fails the sender would realize the problem is likely in the destination node. Is there a good use case for keeping the path error messages?
+
+1. Is randomly denying a percentage of payment requests an effective countermeasure to the balance probing attack? Outside of the potential loss of routing fees, are there any other downsides?
+1. Another countermeasure was to remove error messages when a route fails. Besides having less clarity as to why a path failed when trying to find a route for a payment, are there any other reasons to include these error messages? When trying to find a path, if one of the links did not have enough capacity and you got a generic error message, you'd still keep trying enough paths and eventually get the payment through. If the problem was something else, like in the attack the destination node doesn't have the preimage for the HTLC, then after enough fails the sender would realize the problem is likely in the destination node. Is there a good use case for keeping the path error messages?
