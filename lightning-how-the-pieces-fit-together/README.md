@@ -17,5 +17,6 @@
 1. How is the payment hash sent to the payer?
 1. Explain how the timeout mechanism works for in-flight HTLCs?
 1. How would an offline vending machine work?
-1. Why did transaction malleability need to be fixed on the base layer and how would it have affected Lightning?
-1. What are routing hints and why are they important for private channels?
+1. What are routing hints and why are they important for private channels? Do they leak privacy?
+1. How does the LN-Penalty mechanism currently leak out of the update layer?
+1. If LN were to upgrade the update layer, to eltoo for example, would the network need to end-to-end upgrade?
