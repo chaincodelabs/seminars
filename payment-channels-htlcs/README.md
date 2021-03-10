@@ -16,15 +16,17 @@
 ## Discussion Questions
 
 1. Given the fact that Lightning is punishment-based and requires nodes to be online, could an attacker trick you into publishing old states and lose all your funds?
+1. Why was Segwit an important upgrade to the base layer for Lightning?
+1. How are accidental breaches handled on Lightning (since at the moment this is mostly what is seen in the the wild)?
 
 ### HTLCs
 
 1. Is it correct to say that under "normal" working conditions, if all payments are successful, HTLC outputs are merged back to the main outputs? Meaning the HTLC portion of the commitment transaction rarely gets recorded on-chain?
+1. Does the dust limit of the base layer affect the security of HTLCs routed on Lightning?
 
 ### Breach Remedy
 
 1. When two parties exchange the previous commitment's secrets (to invalidate previous state), how do you make sure that the exchange happen atomically? (i.e., that both receive the other's secret, or none at all)
-
 1. How do you exchange previous commitment data if the parties aren't online on the same time?
 
 ### CHECKSIGFROMSTACK / OP_PUSHTXDATA
