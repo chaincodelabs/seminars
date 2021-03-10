@@ -4,7 +4,7 @@
 
 | Content                                                                                       | Time  | Tags                    |
 |-----------------------------------------------------------------------------------------------|-------|-------------------------|
-[A walk through the layers of Lightning](https://www.youtube.com/watch?v=tie0Gpq2eJI) | 30 min | LN layers, video |
+[A walk through the layers of Lightning](https://diyhpl.us/wiki/transcripts/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-layer-by-layer/) | 30 min | LN layers |
 [The Update Layer](https://youtu.be/SoFlRCNdqDg) | 60 min | update, video |
 [The Transfer Layer](https://youtu.be/CGE8I8L7BAc) | 41 min | transfer, video |
 [The Multihop Layer](https://youtu.be/P7I-C0_sijg) | 72 min | multihop, video |
