@@ -16,9 +16,6 @@ Feeler connections are short-lived connections made to check that a node is aliv
 
 Note that in the literature ("Eclipse Attacks on Bitcoin’s Peer-to-Peer Network") only the latter feature is referred to as "feeler connections", although in our codebase feeler connections encompass test-before-evict as well. We make these connections approximately every FEELER_INTERVAL: first we resolve previously found collisions if they exist (test-before-evict), otherwise connect to a node from the new table
 
-Q: How does "diffusion" message spreading work and why is it ineffective against de-anonymization?  
-A: Diffusion: Instead of using fixed intervals to broadcast and relay INV messages, node now uses a random delay timer. So it picks a neighbor at random AND use a random delay timer per peer, until the tx has been broadcasted / relayed to all reachable peers. Diffusion is still ineffective against deanonymization because despite the random timers, the spreading pattern is still structured/symmetric which betrays the originating source (with good probability). See code [here](https://github.com/bitcoin/bitcoin/commit/5400ef6bcb9d243b2b21697775aa6491115420f3).
-
 Q: Why must transaction unlocking scripts only push numbers to be relayed?  
 A: Transaction locking scripts specify the requirements that must be fulfilled to spend a UTXO, and locking scripts generally include placeholders for values that must be provided in the unlocking script. When spending an input, values must be placed into the unlocking script of a transaction, such that any bitcoin node can evaluate the script and determine whether the transaction is authorized to spend the input. The combination of the locking script and the unlocking script in a transaction must result in the "stack" evaluating to a non-zero value for the input to be considered spendable. The only types of values that can exist on the "stack" to be evaluated in transaction execution are numbers. These numbers could represent cryptographic keys, time, or arbitrary values.
 
@@ -42,3 +39,6 @@ A: This is a mitigation of Merkle tree weakness [CVE-2017-12842](https://bitcoin
 
 Q: Why is the blockheight now encoded in the coinbase transaction?  
 A: To force unique coinbase txids. Before encoding the block height into the coinbase, two coinbase transactions could be the same resulting in one txid for two transactions. Learn more [here](https://learnmeabitcoin.com/glossary/txid#footnote-unique-txids) and see the [PR](https://github.com/bitcoin/bitcoin/pull/1526).
+
+[OPTIONAL]Q: How does "diffusion" message spreading work and why is it ineffective against de-anonymization?  
+A: Diffusion: Instead of using fixed intervals to broadcast and relay INV messages, node now uses a random delay timer. So it picks a neighbor at random AND use a random delay timer per peer, until the tx has been broadcasted / relayed to all reachable peers. Diffusion is still ineffective against deanonymization because despite the random timers, the spreading pattern is still structured/symmetric which betrays the originating source (with good probability). See code [here](https://github.com/bitcoin/bitcoin/commit/5400ef6bcb9d243b2b21697775aa6491115420f3).
