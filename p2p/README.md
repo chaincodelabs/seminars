@@ -6,16 +6,20 @@
 
 | Content                                                                                       | Time  | Tags                    |
 |-----------------------------------------------------------------------------------------------|-------|-------------------------|
-Attacking p2p of Bitcoin Core w/ Amiti Uttarwar ([video (until min 41)](https://youtu.be/H-wH6mY9pZo?t=257) or [transcript](https://diyhpl.us/wiki/transcripts/la-bitdevs/2020-04-16-amiti-uttarwar-attacking-bitcoin-core/)) | 35 min | p2p attacks |
+Attacking P2P of Bitcoin Core w/ Amiti Uttarwar ([video (until min 41)](https://youtu.be/H-wH6mY9pZo?t=257) or [transcript](https://diyhpl.us/wiki/transcripts/la-bitdevs/2020-04-16-amiti-uttarwar-attacking-bitcoin-core/)) | 35 min | p2p attacks |
 [The Bitcoin p2p Network with John Newbery](https://diyhpl.us/wiki/transcripts/scalingbitcoin/stanford-2017/edgeplusplus/p2p-john-newbery/) | 51 min | P2P, video |
 [The Bitcoin Network in Mastering Bitcoin (start at Network Discovery section)](https://github.com/bitcoinbook/bitcoinbook/blob/b5a7b5df3eddb332311ed97af09b678257ce62ca/ch08.asciidoc#network-discovery) | 15 min | P2P |
 [Network partition resistance](https://gist.github.com/sdaftuar/c2a3320c751efb078a7c1fd834036cb0) | 15 min | P2P |
-[Deanonymization in the Bitcoin P2P Network](https://papers.nips.cc/paper/6735-deanonymization-in-the-bitcoin-p2p-network.pdf) | 15 min | P2P, privacy |
 [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://eprint.iacr.org/2015/263.pdf) | 60 min | eclipse attacks, P2P |
 [Network partitioning & network level privacy attacks](http://diyhpl.us/wiki/transcripts/chaincode-labs/2019-06-12-ethan-heilman-network-partitioning-attacks/) | 40 min | eclipse attacks, privacy, P2P |
 [Researching P2P privacy attacks](https://youtu.be/qKNEUfnYue0) | 90 min | P2P, privacy, video, _optional_ |
 
 ## Discussion Questions
+
+### Attacking P2P
+
+1. Given the attack surface in p2p, is running a full node worth it?
+1. How many honest nodes do you need to be connected to be sure you are connected to the right network/blockchain?
 
 ### P2P Connections
 
@@ -24,9 +28,10 @@ Attacking p2p of Bitcoin Core w/ Amiti Uttarwar ([video (until min 41)](https://
 1. How does a fixed set of 4 outbound peers get chosen? In what circumstances would you evict or change them?
 1. What are feeler connections, and when are they used?
 
-### De-anonymization
+### Eclipse Attacks on Bitcoin’s Peer-to-Peer Network
 
-1. How does "diffusion" message spreading work, and why is it ineffective against de-anonymization?
+1. What an attacker do if able to eclipse a mining pool?
+1. What is the difficulty of successfully achieving an eclipse attack? What resources and skills would be required to achieve such an attack?
 
 ### Transaction Trivia
 
