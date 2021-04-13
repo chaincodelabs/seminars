@@ -1,8 +1,17 @@
 # Some Responses to the Discussion Questions
 
 Q: Why would some miners use parts of the version field as a nonce? What effect did this have on nodes?  
-A: **Why**: the nonce value in the header field is only 32 bit, which is a trivial nonce space to burn through with any modern miner (say, at 16TH/s), and after overflow updating a nonce in the coinbase needs a (partial) merkle tree recompute, so it's the most efficient way, I guess"" and ""nTime can be used as well, though as that value is in seconds and there's strict requirements on it, there's not that much wiggle room as the 16 extra version bits give"" -- Wladimir J. van der Laan (twitter discussion) Also that it's easier to update the version bits to change the nonce in an ASIC then to change the nonce in the coinbase.
-**Side effect**: This caused spurious Unknown block versions being mined"" error messages." Learn more [here](https://github.com/bitcoin/bitcoin/pull/15471).
+A: **Why**: "the nonce value in the header field is only 32 bit, which is a trivial nonce space to burn through with any modern miner (say, at 16TH/s), and after overflow updating a nonce in the coinbase needs a (partial) merkle tree recompute, so it's the most efficient way, I guess" and "nTime can be used as well, though as that value is in seconds and there's strict requirements on it, there's not that much wiggle room as the 16 extra version bits give" -- Wladimir J. van der Laan (twitter discussion) Also that it's easier to update the version bits to change the nonce in an ASIC then to change the nonce in the coinbase.
+**Side effect**: This caused spurious Unknown block versions being mined and error messages. Learn more [here](https://github.com/bitcoin/bitcoin/pull/15471).
+
+Q: Greg Maxwell mentioned that miners are hesitant to connect with one another directly, even though it would speed up block propagation. Why?  
+A: If your competitor knows your IP address they are more easily able to DoS you.
+
+Q: How is a high block-orphaning rate the best indicator that block propagation times are too high?  
+A: If a miner isn’t able to quickly discover new blocks, they are more likely to find a valid block on an out-of-date chain, and end up publishing a valid block that is behind the chain tip.
+
+Q: Alternatively, while a low block-orphaning rate can be an indicator that block propagation times are good, it could also be an indicator of something more problematic. What could be a bad reason for there to be very few orphans?  
+A: It could be the case that there's very little orphaning because mining is so centralized that there’s no competition to get orphaned
 
 Q: How does the FIBRE network work and what were the motivations to iterate on the original Relay Network?  
 A: **What?** The Fast Internet Bitcoin Relay Engine (FIBRE) is is a protocol and implementation designed to relay blocks within a network of nodes with almost no delay beyond the speed of light through fiber.
