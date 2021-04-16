@@ -17,14 +17,36 @@
 
 ## Discussion Questions
 
-### eltoo
+### Breaking Down the Bitcoin Lightning Network: eltoo
 
 1. Why do we need SIGHASH_NOINPUT for eltoo?
+1. What do HTLCs look like for an Eltoo channel?
 
-### Submarine swaps
+### Eltoo and the Far Future
+
+1. How does a cooperative close work with Eltoo?
+1. Can channels using Eltoo or PTLC be mixed with standard channels in a multi-hop payment?
+
+### Submarine swaps and Loops
 
 1. Can an adversary make a swap and then wait until a moment before the lock expiry to reveal the secret on one chain while using the signature on the other? If the blocks are fast, could an attacker be able to steal the money from both chains?
 
-### Payment Points
+### Splicing
+
+1. Is it easier to splice on an Eltoo channel?
+
+### Multi-party channels/Channel factories
+
+1. What are the advantages and disadvantages of multiparty channels?
+
+### Dual funded channels
+
+1. How do you split the fees in dual-funded channels?
+
+### Payment Points: Replacing HTLCs
 
 1. How does a wormhole attack work?
+1. Can sender or receiver notice a wormhole attack?
+
+### Payment Points: "Stuckless" Payments
+
