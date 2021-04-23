@@ -8,11 +8,11 @@
 | [SegWit in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc#segregated-witness) or [SegWit video w/ Jimmy Song](https://www.youtube.com/watch?v=Txfy2mFe16A) | 30 min | foundations |
 | [SegWit Benefits](https://bitcoincore.org/en/2016/01/26/segwit-benefits/) | 12 min | technical |
 | [Transaction Malleability](https://eklitzke.org/bitcoin-transaction-malleability) | 15 min | 2017, malleability |
-| [SegWit's Impact on Scalability](https://diyhpl.us/wiki/transcripts/scalingbitcoin/hong-kong/segregated-witness-and-its-impact-on-scalability/) | 30 min | 2015, scale |
+| [SegWit's Impact on Scalability](https://btctranscripts.com/scalingbitcoin/hong-kong-2015/segregated-witness-and-its-impact-on-scalability/) | 30 min | 2015, scale |
 | [Advanced SegWit w/ James O'Beirne](http://diyhpl.us/wiki/transcripts/chaincode-labs/2019-06-18-james-obeirne-advanced-segwit/) | 60 min | technical |
 | [SegWit Costs](https://bitcoincore.org/en/2016/10/28/segwit-costs/) | 20 min | technical |
 | [The Long Road to SegWit](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/) | 20 min | history |
-| [Bech32](https://diyhpl.us/wiki/transcripts/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/) | 35 min | bech32, _optional_ |
+| [Bech32](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/) | 35 min | bech32, _optional_ |
 | [SegWit Wallet Development](https://bitcoincore.org/en/segwit_wallet_dev/) | 10 min | wallet, _optional_ |
 
 ## Discussion Questions
@@ -37,8 +37,8 @@
 ### Advanced SegWit
 
 1. How do blocks commit to witness data?
-1. What is weight versus virtual bytes? How do they differ? How does weight change the relative costs of inputs and outputs? (Advanced SegWit)
-1. How could BIP 9 be considered controversial within the community? How was BIP 148 received when first proposed? (Advanced SegWit)
+1. What is weight versus virtual bytes? How do they differ? How does weight change the relative costs of inputs and outputs?
+1. How could BIP 9 be considered controversial within the community? How was BIP 148 received when first proposed?
 
 ### SegWit's Impact on Scalability
 1. What was the quadratic sighash problem prior to Segwit? How does [BIP 143](https://github.com/bitcoin/bips/blob/master/bip-0143.mediawiki) solve this?
