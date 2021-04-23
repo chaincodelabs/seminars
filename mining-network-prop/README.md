@@ -5,7 +5,7 @@
 | Content                                                            | Time       | Tags                    |
 |--------------------------------------------------------------------|------------|-------------------------|
 [Mining and Consensus in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch10.asciidoc) | 75 min | mining, pools, primer, *optional* |
-[Advances in Block Propagation with Greg Maxwell](https://diyhpl.us/wiki/transcripts/gmaxwell-2017-11-27-advances-in-block-propagation/) | 60 min | block propagation |
+[Advances in Block Propagation with Greg Maxwell](https://btctranscripts.com/greg-maxwell/2017-11-27-gmaxwell-advances-in-block-propagation/) | 60 min | block propagation |
 [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/) | 10 min | compact blocks |
 [Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/) | 10 min | relay network, FIBRE |
 [Mining: No Good, The Bad, and The Ugly](https://www.youtube.com/watch?v=k_z-FBAil6k) | 15 min | mining, stratum, video |
@@ -44,7 +44,7 @@
 
 ### Mining: No Good, The Bad, and The Ugly
 
-1. What is a BGP Hijack attack? What prevents it? (Mining: No Good, The Bad, and The Ugly)
+1. What is a BGP Hijack attack? What prevents it? 
 1. Why not encrypt all communications with pool operators?
 
 ### Majority is not Enough
