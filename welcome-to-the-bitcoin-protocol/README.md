@@ -13,7 +13,7 @@
 [If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/) | 10 min | history |
 [Bitcoin's Security Model: A Deep Dive](https://www.coindesk.com/bitcoins-security-model-deep-dive) | 15 min | security |
 [The Onion Model of Blockchain Security](https://insights.deribit.com/market-research/the-onion-model-of-blockchain-security-part-1/) | 7 min | security |
-[Security Models with John Newbery](http://diyhpl.us/wiki/transcripts/chaincode-labs/2019-06-17-john-newbery-security-models/) | 46 min | security, video |
+[Security Models with John Newbery](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-17-john-newbery-security-models/) | 46 min | security, video |
 [Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages](https://www.reddit.com/r/Bitcoin/comments/438hx0/a_trip_to_the_moon_requires_a_rocket_with/) | 15 min | scaling |
 
 ## Discussion Questions
@@ -51,5 +51,5 @@
 
 ### Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages
 
-1. Do you believe that bitcoin needs to be competitive with visa/mastercard to succeed? (A trip to the moon)
-1. How do you think the bitcoin community might react to a centralized payment processor that does as many transactions per second as visa/mastercard? (A trip to the moon)
+1. Do you believe that bitcoin needs to be competitive with visa/mastercard to succeed?
+1. How do you think the bitcoin community might react to a centralized payment processor that does as many transactions per second as visa/mastercard? 
