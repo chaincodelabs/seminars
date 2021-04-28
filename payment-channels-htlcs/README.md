@@ -46,8 +46,8 @@
 1. Why do CSV and CLTV rely on nLocktime or nSequence being set in the transaction spending the outputs when the script could check if the requirements are being met by itself?
 1. Can both CSV and CLTV be used in the same output and are there any known use cases for it?
 1. Is it fair to say UTXO-level timelocks are superior to transaction-level timelocks since they are baked directly into the protocol and allow more flexiblity and control? Are transaction-level timelocks necessary (Assuming there's a way to implement UTXO-level timelocks without relying on nLockTime/nSequence)?
-1. In what scenarios is OP_CLTV used in Lightning and in what scenarios is OP_CSV used?
-1. Why can OP_CLTV and OP_CSV not touch the stack? Why are they always either followed by OP_DROP or at the end of the script? What are the pros and cons of real-time negotiation of channel parameters?
+1. In what scenarios is `OP_CLTV` used in Lightning and in what scenarios is `OP_CSV` used?
+1. Why can `OP_CLTV` and `OP_CSV` not touch the stack? Why are they always either followed by `OP_DROP` or at the end of the script? What are the pros and cons of real-time negotiation of channel parameters?
 
 ### Hashed Timelock Contracts
 
@@ -55,7 +55,7 @@
 1. Does the dust limit of the base layer affect the security of HTLCs routed on Lightning?
 1. How can signature checks of arbitrary data be used to avoid storing signatures for each channel state?
 1. Would HTLCs also work with CSV opcodes?
-1. Why do we need the HTLC-Success and HTLC-Timeout transactions? Why can't we just use a sequence delay on the to_local output conditions of the HTLC itself?
+1. Why do we need the HTLC-Success and HTLC-Timeout transactions? Why can't we just use a sequence delay on the `to_local` output conditions of the HTLC itself?
 
 ### Visualizing HTLCs and the Lightning Network's Dirty Little Secret
 
@@ -66,7 +66,7 @@
 ### Lightning Network BOLT by BOLT
 
 1. What problem do commitment transactions solve? When a revoked commitment transaction is found, what outputs need to be resolved by the penalty transaction? What happens to the HTLCs?
-1. A node must be able to generate the <revocation_sig> for all prior revoked commitments. How can they be stored efficiently, what are the challenges?
-1. What is a good value for to-self-delay for breach remedy and why?
+1. A node must be able to generate the <revocation_sig> for all prior revoked commitments. How can they be stored efficiently? What are the challenges?
+1. What is a good value for to-self-delay for the breach remedy and why?
 1. Why is it okay for the channel partner to give up a channel state? What things do they need to enforce (validate) before releasing the secret?
 1. What are the economic implications of the fact that gossiping about channel updates is free?

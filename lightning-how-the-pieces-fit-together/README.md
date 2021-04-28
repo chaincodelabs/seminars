@@ -43,7 +43,7 @@
 1. Why is a grace period added to the HTLC timeout?
 1. What are routing hints and why are they important for private channels? Do they leak privacy?
 
-### The other layers (base and transport)
+<!-- ### The other layers (base and transport) -->
 
 ### Diffie–Hellman key exchange
 

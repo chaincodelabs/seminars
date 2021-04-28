@@ -19,7 +19,7 @@
 
 1. What are the incentives around on-chain fees for the funding tx? Does the fundee care if the funder submits a funding tx with very low fee?
 
-### Lightning Network 2.0
+<!-- ### Lightning Network 2.0 -->
 
 ### Major Limitations of Lightning
 
@@ -28,7 +28,7 @@
 
 ### Spamming the Lightning Network
 
-1. What variables other than htlc_min_val and max_num_htlcs could be tweaked to make it harder or less attractive for an attacker try and lock up a channel?
+1. What variables other than `htlc_min_val` and `max_num_htlcs` could be tweaked to make it harder or less attractive for an attacker to try and lock up a channel?
 
 ### Limitations of lightweight clients
 
