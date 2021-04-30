@@ -4,16 +4,16 @@
 
 | Content                                                            | Time       | Tags                    |
 |--------------------------------------------------------------------|------------|-------------------------|
-[Mining and Consensus in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch10.asciidoc) | 75 min | mining, pools, primer, *optional* |
-[Advances in Block Propagation with Greg Maxwell](https://btctranscripts.com/greg-maxwell/2017-11-27-gmaxwell-advances-in-block-propagation/) | 60 min | block propagation |
-[Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/) | 10 min | compact blocks |
-[Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/) | 10 min | relay network, FIBRE |
-[Mining: No Good, The Bad, and The Ugly](https://www.youtube.com/watch?v=k_z-FBAil6k) | 15 min | mining, stratum, video |
-[Why Bitcoin Mining Pools Aren't Incentivized to Broadcast Blocks Quickly](https://bitcoinmagazine.com/articles/why-bitcoin-mining-pools-aren-t-incentivized-to-broadcast-blocks-quickly-1475249510/) | 10 min | spy mining |
-[Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf) | 30 min | selfish mining |
-[Demystifying The Selfish Mining Bet](https://eklitzke.org/demystifying-the-selfish-mining-bet) | 10 min | selfish mining |
-[Mining pools](https://en.wikipedia.org/wiki/Mining_pool) | 15 min | mining pools |
-[Overview of the covert AsicBoost allegation](https://blog.bitmex.com/an-overview-of-the-covert-asicboost-allegation-2/) | 15 min | asic boost |
+| [Mining and Consensus in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch10.asciidoc) | 75 min | mining, pools, primer, *optional* |
+| [Advances in Block Propagation with Greg Maxwell](https://btctranscripts.com/greg-maxwell/2017-11-27-gmaxwell-advances-in-block-propagation/) | 60 min | block propagation |
+| [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/) | 10 min | compact blocks |
+| [Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/) | 10 min | relay network, FIBRE |
+| [Mining: No Good, The Bad, and The Ugly](https://www.youtube.com/watch?v=k_z-FBAil6k) | 15 min | mining, stratum, video |
+| [Why Bitcoin Mining Pools Aren't Incentivized to Broadcast Blocks Quickly](https://bitcoinmagazine.com/articles/why-bitcoin-mining-pools-aren-t-incentivized-to-broadcast-blocks-quickly-1475249510/) | 10 min | spy mining |
+| [Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf) | 30 min | selfish mining |
+| [Demystifying The Selfish Mining Bet](https://eklitzke.org/demystifying-the-selfish-mining-bet) | 10 min | selfish mining |
+| [Mining pools](https://en.wikipedia.org/wiki/Mining_pool) | 15 min | mining pools |
+| [Overview of the covert AsicBoost allegation](https://blog.bitmex.com/an-overview-of-the-covert-asicboost-allegation-2/) | 15 min | asic boost |
 
 ## Discussion Questions
 

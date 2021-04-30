@@ -6,13 +6,13 @@
 
 | Content                                                                                       | Time  | Tags                    |
 |-----------------------------------------------------------------------------------------------|-------|-------------------------|
-Attacking P2P of Bitcoin Core w/ Amiti Uttarwar ([video *until min 41*)](https://youtu.be/H-wH6mY9pZo?t=257) or [transcript](https://btctranscripts.com/la-bitdevs/2020-04-16-amiti-uttarwar-attacking-bitcoin-core/) | 35 min | p2p attacks |
-[The Bitcoin p2p Network with John Newbery](https://btctranscripts.com/scalingbitcoin/stanford-2017/edgeplusplus/p2p-john-newbery/) | 51 min | P2P, video |
-[The Bitcoin Network in Mastering Bitcoin (start at Network Discovery section)](https://github.com/bitcoinbook/bitcoinbook/blob/b5a7b5df3eddb332311ed97af09b678257ce62ca/ch08.asciidoc#network-discovery) | 15 min | P2P |
-[Network partition resistance](https://gist.github.com/sdaftuar/c2a3320c751efb078a7c1fd834036cb0) | 15 min | P2P |
-[Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://eprint.iacr.org/2015/263.pdf) | 60 min | eclipse attacks, P2P |
-[Network partitioning & network level privacy attacks](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-12-ethan-heilman-network-partitioning-attacks/) | 40 min | eclipse attacks, privacy, P2P |
-[Researching P2P privacy attacks](https://youtu.be/qKNEUfnYue0) | 90 min | P2P, privacy, video, _optional_ |
+| Attacking P2P of Bitcoin Core w/ Amiti Uttarwar ([video *until min 41*)](https://youtu.be/H-wH6mY9pZo?t=257)  or [transcript](https://btctranscripts.com/la-bitdevs/2020-04-16-amiti-uttarwar-attacking-bitcoin-core/) | 35 min | p2p attacks |
+| [The Bitcoin p2p Network with John Newbery](https://btctranscripts.com/scalingbitcoin/stanford-2017/edgeplusplus/p2p-john-newbery/) | 51 min | P2P, video |
+| [The Bitcoin Network in Mastering Bitcoin (start at Network Discovery section)](https://github.com/bitcoinbook/bitcoinbook/blob/b5a7b5df3eddb332311ed97af09b678257ce62ca/ch08.asciidoc#network-discovery) | 15 min | P2P |
+| [Network partition resistance](https://gist.github.com/sdaftuar/c2a3320c751efb078a7c1fd834036cb0) | 15 min | P2P |
+| [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://eprint.iacr.org/2015/263.pdf) | 60 min | eclipse attacks, P2P |
+| [Network partitioning & network level privacy attacks](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-12-ethan-heilman-network-partitioning-attacks/) | 40 min | eclipse attacks, privacy, P2P |
+| [Researching P2P privacy attacks](https://youtu.be/qKNEUfnYue0) | 90 min | P2P, privacy, video, _optional_ |
 
 ## Discussion Questions
 
