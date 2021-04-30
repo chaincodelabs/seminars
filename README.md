@@ -1,21 +1,22 @@
-# Study Groups for protocol developers
+# Seminar for Bitcoin and Lightning protocol
 
-### Please consider adding resources keep these sessions lists fresh. PRs welcome!
+Each individual topic represents a weekly curriculum.
 
-Each individual directory represents a weekly study group.
+For more information and to apply to do this with Chaincode Labs visit
+[learning.chaincode.com](https://learning.chaincode.com/).
 
-### Bitcoin
+## Bitcoin Topics
 
-1. [Welcome to Bitcoin Protocol Development](/welcome-to-the-bitcoin-protocol)
-2. [SegWit](/segwit)
-3. [Mining and Network Propagation](/mining-network-prop)
-4. [P2P](/p2p)
-5. [SCRIPT and Wallets](/script-wallets)
+1. Welcome to Bitcoin Protocol Development
+2. SegWit
+3. Mining and Network Propagation
+4. P2P
+5. SCRIPT and Wallets
 
-### Lightning
+## Lightning Topics
 
-6. [LN History, Payment Channels and HTLCs](/payment-channels-htlcs)
-7. [How the Layers of Lightning Fit Together](/lightning-how-the-pieces-fit-together)
-8. [Lightning Routing](/lightning-routing)
-9. [Limitations](/lightning-limitations)
-10. [The Future of Lightning](/future-of-lightning)
+6. LN History, Payment Channels and HTLCs
+7. How the Layers of Lightning Fit Together
+8. Lightning Routing
+9. Limitations
+10. The Future of Lightning
