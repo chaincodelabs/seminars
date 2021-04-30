@@ -2,20 +2,19 @@
 
 ## Reading
 
-| Content                                                              | Time  | Tags                    |
-|----------------------------------------------------------------------|-------|-------------------------|
-| [Bitcoin Script: Past and Future](https://btctranscripts.com/chaincode-labs/2020-04-08-john-newbery-contracts-in-bitcoin/) | 25 min | script |
-| [Script: A Mini Programming Language](https://learnmeabitcoin.com/technical/script) | 10 min | script |
-| [Scripts (general & simple)](https://btctranscripts.com/scalingbitcoin/tokyo-2018/edgedevplusplus/scripts-general-and-simple/) | 30 min | script |
-| [Miniscript: Streamlined Bitcoin Scripting](https://medium.com/blockstream/miniscript-bitcoin-scripting-3aeff3853620) | 11 min | miniscript |
-| [Taproot: Privacy preserving switchable scripting](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-January/015614.html) | 25 min | script, taproot |
-| [Using the Chain for What Chains are Good For](https://btctranscripts.com/scalingbitcoin/stanford-2017/using-the-chain-for-what-chains-are-good-for/) | 25 min | script, _optional_ |
-| [HD Wallets](https://learnmeabitcoin.com/technical/hd-wallets) | 10 min | HD wallets |
-| [Coin Selection](https://btctranscripts.com/scalingbitcoin/tokyo-2018/edgedevplusplus/coin-selection/) | 20 min | coin selection |
-| [An Introduction to Bitcoin Core Fee Estimation](https://bitcointechtalk.com/an-introduction-to-bitcoin-core-fee-estimation-27920880ad0) | 11 min | fees |
-| [Fee Bumping and RBF](https://github.com/bitcoinops/scaling-book/blob/add_rbf/1.fee_bumping/fee_bumping.md) | 20 min | fee bumping, RBF |
-| [PSBT with Andrew Chow](https://btctranscripts.com/sf-bitcoin-meetup/2019-03-15-partially-signed-bitcoin-transactions/) | 20 min | PSBT, _optional_ |
-| Native Descriptor Wallets - [gist](https://gist.github.com/achow101/94d889715afd49181f8efdca1f9faa25) or [presentation](https://btctranscripts.com/advancing-bitcoin/2020/2020-02-06-andrew-chow-descriptor-wallets/) | 10 or 18 min | descriptors, _optional_ |
+| Content                                                            | Time (min)      |
+|--------------------------------------------------------------------|-----------------|
+| [Bitcoin Script: Past and Future](https://diyhpl.us/wiki/transcripts/chaincode-labs/2020-04-08-john-newbery-contracts-in-bitcoin/) | 25 |
+| [Script: A Mini Programming Language](https://learnmeabitcoin.com/technical/script) | 10 |
+| [Scripts (general & simple)](https://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/edgedevplusplus/scripts-general-and-simple/) | 30 |
+| [Miniscript: Streamlined Bitcoin Scripting](https://medium.com/blockstream/miniscript-bitcoin-scripting-3aeff3853620) | 11 |
+| (_optional_) [Using the Chain for What Chains are Good For](https://diyhpl.us/wiki/transcripts/scalingbitcoin/stanford-2017/using-the-chain-for-what-chains-are-good-for/) | 25 |
+| [HD Wallets](https://learnmeabitcoin.com/technical/hd-wallets) | 10 |
+| Native Descriptor Wallets - [gist](https://gist.github.com/achow101/94d889715afd49181f8efdca1f9faa25) or [presentation](https://diyhpl.us/wiki/transcripts/advancing-bitcoin/2020/2020-02-06-andrew-chow-descriptor-wallets/) | 10 or 18 |
+| [Coin Selection](https://diyhpl.us/wiki/transcripts/scalingbitcoin/tokyo-2018/edgedevplusplus/coin-selection/) | 20 |
+| [An Introduction to Bitcoin Core Fee Estimation](https://bitcointechtalk.com/an-introduction-to-bitcoin-core-fee-estimation-27920880ad0) | 11 |
+| [Fee Bumping and RBF](https://github.com/bitcoinops/scaling-book/blob/add_rbf/1.fee_bumping/fee_bumping.md) | 20 |
+| (_optional_) [PSBT with Andrew Chow](https://diyhpl.us/wiki/transcripts/sf-bitcoin-meetup/2019-03-15-partially-signed-bitcoin-transactions) | 20 |
 
 ## Discussion Questions
 
