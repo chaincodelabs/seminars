@@ -2,8 +2,8 @@
 
 ## Reading
 
-| Content                                                                                       | Time  | Tags                    |
-|-----------------------------------------------------------------------------------------------|-------|-------------------------|
+| Content | Time | Tags |
+| :--- | :--- | :--- |
 | [Breaking Down the Bitcoin Lightning Network: eltoo](https://medium.com/@brandonarvanaghi/breaking-down-the-bitcoin-lightning-network-eltoo-c48554f5ae02) | 11 min | eltoo |
 | [Eltoo and the Far Future](https://diyhpl.us/wiki/transcripts/chaincode-labs/2019-09-18-christian-decker-eltoo/) | 30 min | eltoo |
 | [Submarine Swaps](http://diyhpl.us/wiki/transcripts/magicalcryptoconference/2019/submarine-swaps/) | 5 min | submarine swaps |
@@ -19,13 +19,13 @@
 
 ### Breaking Down the Bitcoin Lightning Network: eltoo
 
-1. Why do we need SIGHASH_NOINPUT for eltoo?
-1. What do HTLCs look like for an Eltoo channel?
+1. Why do we need SIGHASH\_NOINPUT for eltoo?
+2. What do HTLCs look like for an Eltoo channel?
 
 ### Eltoo and the Far Future
 
 1. How does a cooperative close work with Eltoo?
-1. Can channels using Eltoo or PTLC be mixed with standard channels in a multi-hop payment?
+2. Can channels using Eltoo or PTLC be mixed with standard channels in a multi-hop payment?
 
 ### Submarine swaps and Loops
 
@@ -46,7 +46,7 @@
 ### Payment Points: Replacing HTLCs
 
 1. How does a wormhole attack work?
-1. Can sender or receiver notice a wormhole attack?
+2. Can sender or receiver notice a wormhole attack?
 
 ### Payment Points: "Stuckless" Payments
 
