@@ -2,8 +2,8 @@
 
 ## Reading
 
-| Content                                                            | Time (min)      |
-|--------------------------------------------------------------------|-----------------|
+| Content | Time \(min\) |
+| :--- | :--- |
 | [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) | 20 |
 | [Bitcoin Whitepaper Errata and Details](https://gist.github.com/harding/dabea3d83c695e6b937bf090eddf2bb3) | 15 |
 | [The Incomplete History of Bitcoin Development](https://b10c.me/blog/004-the-incomplete-history-of-bitcoin-development/) | 10 |
@@ -19,7 +19,7 @@
 ### Bitcoin Whitepaper
 
 1. Why did Satoshi put so much stress on the irreversibility of transactions?
-1. What proposed role do SPV nodes play in the bitcoin ecosystem?
+2. What proposed role do SPV nodes play in the bitcoin ecosystem?
 
 ### Incomplete History of Bitcoin Development
 
@@ -28,14 +28,14 @@
 ### Bitcoin's Academic Pedigree
 
 1. In your opinion, what did Satoshi "invent" that was truly innovative?
-1. What is a Sybil Attack, and how has it been solved in the past? How does proof of work enable Sybil resistance for new nodes joining the Bitcoin network?
-1. What is the "fair exchange" problem, and how does it apply to the blockchain?
-1. Why do the authors of Bitcoin's Academic Pedigree believe that bitcoin was ignored by academia for a long time? What reputation/relationship does bitcoin have with academia today?
+2. What is a Sybil Attack, and how has it been solved in the past? How does proof of work enable Sybil resistance for new nodes joining the Bitcoin network?
+3. What is the "fair exchange" problem, and how does it apply to the blockchain?
+4. Why do the authors of Bitcoin's Academic Pedigree believe that bitcoin was ignored by academia for a long time? What reputation/relationship does bitcoin have with academia today?
 
 ### If I'd Known What We Were Starting
 
 1. How do you judge the merits or value of a good project/experiment?
-1. Why do you think Bitcoin's creator remained anonymous and (as far as we know) chose not to profit from Bitcoin's success?
+2. Why do you think Bitcoin's creator remained anonymous and \(as far as we know\) chose not to profit from Bitcoin's success?
 
 ### Bitcoin's Security Model: A Deep Dive
 
@@ -44,10 +44,11 @@
 ### Security Models with John Newbery
 
 1. Define the differences between a full node, pruned node, and an SPV node?
-1. What are the incentives to run a full node? If I do run a full node, why accept incoming connections given that they come at a cost? What might those costs be?
-1. What is the difference between the block propagation network and the transaction relay network? How does participating in one or the other impact your definition of a full node?
+2. What are the incentives to run a full node? If I do run a full node, why accept incoming connections given that they come at a cost? What might those costs be?
+3. What is the difference between the block propagation network and the transaction relay network? How does participating in one or the other impact your definition of a full node?
 
 ### Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages
 
 1. Do you believe that bitcoin needs to be competitive with visa/mastercard to succeed?
-1. How do you think the bitcoin community might react to a centralized payment processor that does as many transactions per second as visa/mastercard? 
+2. How do you think the bitcoin community might react to a centralized payment processor that does as many transactions per second as visa/mastercard? 
+
