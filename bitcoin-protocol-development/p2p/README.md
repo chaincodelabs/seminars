@@ -1,6 +1,6 @@
 # P2P
 
-*Note that this section depends on reviewing the network propagation resources of the mining and network propagation study group. If you are doing these out of order, please take a look at that section first.*
+*Note that this section depends on reviewing the network propagation resources of the mining and network propagation seminar. If you are doing these out of order, please take a look at that section first.*
 
 ## Reading
 

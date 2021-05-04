@@ -2,7 +2,7 @@
 
 * [Seminar for Bitcoin and Lightning protocol](README.md)
 * [Bitcoin Protocol Development](bitcoin-protocol-development/README.md)
-  * [Welcome to the Bitcoin Protocol Development Study Groups](bitcoin-protocol-development/welcome-to-the-bitcoin-protocol.md)
+  * [Welcome to the Bitcoin Protocol Development Seminar](bitcoin-protocol-development/welcome-to-the-bitcoin-protocol.md)
   * [SegWit](bitcoin-protocol-development/segwit.md)
   * [Mining and Network Block Propagation](bitcoin-protocol-development/mining-network-prop.md)
   * [P2P](bitcoin-protocol-development/p2p.md)

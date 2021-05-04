@@ -27,7 +27,7 @@ Each week, deputies are selected at random. The idea isn't to add any pressure. 
 
 A week before the meeting, the organizers will post deputy assignments along with breakout groups and pairings. Each group will have its own Jitsi link and 3-4 participants.
 
-#### On the day of:
+##### On the day of:
 
 - As a deputy, you will need to check-in on slack no later than 15 minutes before the start time. (Ping Caralie on slack to let her know you're ready.)
 - For the first 5-10 minutes, we'll meet as a full group. (Week 1 & 5 only. Other weeks, you'll go straight to breakout)
