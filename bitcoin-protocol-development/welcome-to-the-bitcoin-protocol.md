@@ -39,7 +39,7 @@
 
 ### Bitcoin's Security Model: A Deep Dive
 
-1. What do you think will happen when the mining reward runs out?
+1. What do you think will happen when the block subsidy runs out?
 
 ### Security Models with John Newbery
 
@@ -50,5 +50,5 @@
 ### Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages
 
 1. Do you believe that bitcoin needs to be competitive with visa/mastercard to succeed?
-2. How do you think the bitcoin community might react to a centralized payment processor that does as many transactions per second as visa/mastercard? 
+2. How do you think the bitcoin community might react to a centralized payment processor that does as many transactions per second as visa/mastercard?
 
