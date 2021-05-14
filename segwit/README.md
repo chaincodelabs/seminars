@@ -34,15 +34,15 @@
 ### SegWit Benefits
 1. Why do second layer protocols (like Lightning) require transaction malleability to be fixed?
 
+### SegWit's Impact on Scalability
+1. What was the quadratic sighash problem prior to Segwit? How does [BIP 143](https://github.com/bitcoin/bips/blob/master/bip-0143.mediawiki) solve this?
+1. What rationale was used to decide on the 4 MB SegWit block weight (3 x old_tx_bytes + segwit_tx_bytes), instead of say a 2 MB block weight (old_tx_bytes + segwit_tx_bytes)?
+
 ### Advanced SegWit
 
 1. How do blocks commit to witness data?
 1. What is weight versus virtual bytes? How do they differ? How does weight change the relative costs of inputs and outputs?
 1. How could BIP 9 be considered controversial within the community? How was BIP 148 received when first proposed?
-
-### SegWit's Impact on Scalability
-1. What was the quadratic sighash problem prior to Segwit? How does [BIP 143](https://github.com/bitcoin/bips/blob/master/bip-0143.mediawiki) solve this?
-1. What rationale was used to decide on the 4 MB SegWit block weight (3 x old_tx_bytes + segwit_tx_bytes), instead of say a 2 MB block weight (old_tx_bytes + segwit_tx_bytes)?
 
 ### SegWit Costs
 
