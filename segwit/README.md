@@ -6,8 +6,8 @@
 |-----------------------------------------------------------------------------------------------|-------|-------------------------|
 | [What is SegWit?](https://bitcoinmagazine.com/guides/what-is-segwit) | 5 min | primer                  |
 | [SegWit in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc#segregated-witness) or [SegWit video w/ Jimmy Song](https://www.youtube.com/watch?v=Txfy2mFe16A) | 30 min | foundations |
-| [SegWit Benefits](https://bitcoincore.org/en/2016/01/26/segwit-benefits/) | 12 min | technical |
 | [Transaction Malleability](https://eklitzke.org/bitcoin-transaction-malleability) | 15 min | 2017, malleability |
+| [SegWit Benefits](https://bitcoincore.org/en/2016/01/26/segwit-benefits/) | 12 min | technical |
 | [SegWit's Impact on Scalability](https://btctranscripts.com/scalingbitcoin/hong-kong-2015/segregated-witness-and-its-impact-on-scalability/) | 30 min | 2015, scale |
 | [Advanced SegWit w/ James O'Beirne](http://diyhpl.us/wiki/transcripts/chaincode-labs/2019-06-18-james-obeirne-advanced-segwit/) | 60 min | technical |
 | [SegWit Costs](https://bitcoincore.org/en/2016/10/28/segwit-costs/) | 20 min | technical |
