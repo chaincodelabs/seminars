@@ -29,8 +29,8 @@
 ### Advances in Block Propagation
 
 1. How can changes to Bitcoins p2p protocol affect mining?
-1. How is a high block-orphaning rate the best indicator that block propagation times are too high?
-1. Alternatively, while a low block-orphaning rate can be an indicator that block propagation times are good, it could also be an indicator of something more problematic. What could be a bad reason for there to be very few orphans?
+1. How is a high stale block rate the best indicator that block propagation times are too high?
+1. Alternatively, while a low stale block rate can be an indicator that block propagation times are good, it could also be an indicator of something more problematic. What could be a bad reason for there to be very few stale blocks?
 1. Greg Maxwell mentioned that miners are hesitant to connect with one another directly, even though it would speed up block propagation. Why?
 
 ### Compact Blocks
