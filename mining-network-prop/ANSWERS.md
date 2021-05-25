@@ -11,7 +11,7 @@ Q: How is a high stale block rate the best indicator that block propagation time
 A: If a miner isn’t able to quickly discover new blocks, they are more likely to find a valid block on an out-of-date chain, and end up publishing a valid block that is behind the chain tip.
 
 Q: Alternatively, while a low stale block rate can be an indicator that block propagation times are good, it could also be an indicator of something more problematic. What could be a bad reason for there to be very few stale blocks?  
-A: It could be the case that there are very few stale blocks because mining is so centralized that there’s no competition blocks to become stale.
+A: It could be the case that there are very few stale blocks because mining is so centralized that there’s not enough competition for blocks to become stale.
 
 Q: How does the FIBRE network work and what were the motivations to iterate on the original Relay Network?  
 A: **What?** The Fast Internet Bitcoin Relay Engine (FIBRE) is is a protocol and implementation designed to relay blocks within a network of nodes with almost no delay beyond the speed of light through fiber.
