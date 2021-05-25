@@ -11,6 +11,7 @@
 | [SegWit's Impact on Scalability](https://btctranscripts.com/scalingbitcoin/hong-kong-2015/segregated-witness-and-its-impact-on-scalability/) | 30 min | 2015, scale |
 | [Advanced SegWit w/ James O'Beirne](http://diyhpl.us/wiki/transcripts/chaincode-labs/2019-06-18-james-obeirne-advanced-segwit/) | 60 min | technical |
 | [SegWit Costs](https://bitcoincore.org/en/2016/10/28/segwit-costs/) | 20 min | technical |
+| [Inhibiting a covert attack on the Bitcoin POW function](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-April/013996.html) | 10 min | technical |
 | [The Long Road to SegWit](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/) | 20 min | history |
 | [Bech32](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/) | 35 min | bech32, _optional_ |
 | [SegWit Wallet Development](https://bitcoincore.org/en/segwit_wallet_dev/) | 10 min | wallet, _optional_ |
