@@ -2,18 +2,18 @@
 
 ## Reading
 
-| Content | Time | Tags |
-| :--- | :--- | :--- |
-| [Lightning Network 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e#:~:text=Lightning%20Problem%201%3A%20Liquidity) - starting at Lightning Problem 1: Liquidity | 20 min | limitations |
-| [Lightning Limitations](http://diyhpl.us/wiki/transcripts/boltathon/2019-04-06-alex-bosworth-major-limitations/) | 35 min | limitations |
-| [Spamming the Lightning Network](https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md) | 30 min | spam |
-| [Limitations of lightweight clients](https://youtu.be/ULVItljEiFE) | 18 min | spv, video |
-| [Fee Management](https://youtu.be/r8S3iELg9_U) - until min 21 | 21 min | fees, video |
-| [Incentive problems in the network](https://youtu.be/lByQUr7zPr0) | 34 min | limitations, video |
-| [Routing Failures](https://youtu.be/z5vEyvc2vrE) | 17 min | limitations, video |
-| [Lightning Attack Vectors](https://youtu.be/R5cSrftd8nc) | 29 min | security, video |
-| [Pinning Attacks](https://github.com/t-bast/lightning-docs/blob/master/pinning-attacks.md) |  |  |
-| [On the Difficulty of Hiding the Balance of Lightning Network Channels](https://eprint.iacr.org/2019/328.pdf) | Start at section 3, 30 min | privacy |
+| Content | Time \(min\) |
+| :--- | :--- |
+| [Lightning Network 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e#:~:text=Lightning%20Problem%201%3A%20Liquidity) \(starting at Lightning Problem 1: Liquidity\) | 20 |
+| [Lightning Limitations](http://diyhpl.us/wiki/transcripts/boltathon/2019-04-06-alex-bosworth-major-limitations/) | 35 |
+| [Spamming the Lightning Network](https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md) | 30 |
+| [Limitations of lightweight clients](https://youtu.be/ULVItljEiFE) | 18 |
+| [Fee Management](https://youtu.be/r8S3iELg9_U) \(until min 21\) | 21 |
+| [Incentive problems in the network](https://youtu.be/lByQUr7zPr0) | 34 |
+| [Routing Failures](https://youtu.be/z5vEyvc2vrE) | 17 |
+| [Lightning Attack Vectors](https://youtu.be/R5cSrftd8nc) | 29 |
+| [Pinning Attacks](https://github.com/t-bast/lightning-docs/blob/master/pinning-attacks.md) | 40 |
+| [On the Difficulty of Hiding the Balance of Lightning Network Channels](https://eprint.iacr.org/2019/328.pdf) \(Start at section 3\) | 30 |
 
 ## Discussion Questions
 

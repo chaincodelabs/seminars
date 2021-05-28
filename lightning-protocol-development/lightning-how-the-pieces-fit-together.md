@@ -2,15 +2,15 @@
 
 ## Reading
 
-| Content | Time | Tags |
-| :--- | :--- | :--- |
-| [A walk through the layers of Lightning](https://diyhpl.us/wiki/transcripts/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-layer-by-layer/) | 30 min | LN layers |
-| [The Update Layer](https://youtu.be/SoFlRCNdqDg) | 60 min | update, video |
-| [The Transfer Layer](https://youtu.be/CGE8I8L7BAc) | 41 min | transfer, video |
-| [The Multihop Layer](https://youtu.be/P7I-C0_sijg) | 72 min | multihop, video |
-| [The other layers \(base and transport\)](https://youtu.be/wyri7cc83kQ) | 17 min | base, transport, video |
-| [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) | 10 min | Diffie–Hellman, cryptography |
-| [How and when do I use HMAC?](https://security.stackexchange.com/questions/20129/how-and-when-do-i-use-hmac) | 10 min | HMAC, cryptography |
+| Content | Time \(min\) |
+| :--- | :--- |
+| [A walk through the layers of Lightning](https://diyhpl.us/wiki/transcripts/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-layer-by-layer/) | 30 |
+| [The Update Layer](https://youtu.be/SoFlRCNdqDg) | 60 |
+| [The Transfer Layer](https://youtu.be/CGE8I8L7BAc) | 41 |
+| [The Multihop Layer](https://youtu.be/P7I-C0_sijg) | 72 |
+| [The other layers \(base and transport\)](https://youtu.be/wyri7cc83kQ) | 17 |
+| [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) | 10 |
+| [How and when do I use HMAC?](https://security.stackexchange.com/questions/20129/how-and-when-do-i-use-hmac) | 10 |
 
 ## Discussion Questions
 

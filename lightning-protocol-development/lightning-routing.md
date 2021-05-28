@@ -2,17 +2,17 @@
 
 ## Reading
 
-| Content | Time | Tags |
-| :--- | :--- | :--- |
-| [Network topology creation & maintenance](https://diyhpl.us/wiki/transcripts/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-topology/) | 20 min | routing |
-| [Routing problems and solutions \(rendezvous, trampoline\)](https://www.youtube.com/watch?v=1O-bhcbh9vE) | 22 min | rendezvous, trampoline, video |
-| [Amount-independent payment routing in Lightning Networks](https://medium.com/coinmonks/amount-independent-payment-routing-in-lightning-networks-6409201ff5ed) | 6 min | routing |
-| [Multi-path payments \(MPP\)](https://youtu.be/Og4TGERPZMY) | 21 min | AMP, video |
-| Rendezvous routing \([presentation](https://youtu.be/Ms2WwRzBdkM) or [wiki write-up](https://github.com/lightningnetwork/lightning-rfc/wiki/Rendez-vous-mechanism-on-top-of-Sphinx)\) | 10 min | rendezvous, routing |
-| [Gossip Protocol/Path Finding](https://youtu.be/MeEFUaRnMak) | 56 min | gossip protocol, video |
-| [Onion Routing](https://youtu.be/toarjBSPFqI) | 11 min | onion routing, video |
-| [Onion Routing - deep dive](https://youtu.be/D4kX0gR-H0Y) | 38 min | onion routing, video |
-| [Sphinx](https://github.com/t-bast/lightning-docs/blob/master/sphinx.md) | 20 min | sphinx, _optional_ |
+| Content | Time \(min\) |
+| :--- | :--- |
+| [Network topology creation & maintenance](https://diyhpl.us/wiki/transcripts/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-topology/) | 20 |
+| [Routing problems and solutions \(rendezvous, trampoline\)](https://www.youtube.com/watch?v=1O-bhcbh9vE) | 22 |
+| [Amount-independent payment routing in Lightning Networks](https://medium.com/coinmonks/amount-independent-payment-routing-in-lightning-networks-6409201ff5ed) | 10 |
+| [Multi-path payments \(MPP\)](https://youtu.be/Og4TGERPZMY) | 21 |
+| Rendezvous routing \([presentation](https://youtu.be/Ms2WwRzBdkM) or [wiki write-up](https://github.com/lightningnetwork/lightning-rfc/wiki/Rendez-vous-mechanism-on-top-of-Sphinx)\) | 10 |
+| [Gossip Protocol/Path Finding](https://youtu.be/MeEFUaRnMak) | 60 |
+| [Onion Routing](https://youtu.be/toarjBSPFqI) | 11 |
+| [Onion Routing - deep dive](https://youtu.be/D4kX0gR-H0Y) | 38 |
+| [Sphinx](https://github.com/t-bast/lightning-docs/blob/master/sphinx.md) | 20 |
 
 ## Discussion Questions
 
