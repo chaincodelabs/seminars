@@ -5,15 +5,15 @@
 | Content | Time \(min\) |
 | :--- | :--- |
 | [Mining and Consensus in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch10.asciidoc) | 75 |
-| [Advances in Block Propagation with Greg Maxwell](https://diyhpl.us/wiki/transcripts/gmaxwell-2017-11-27-advances-in-block-propagation/) | 60 |
+| [Advances in Block Propagation with Greg Maxwell](https://btctranscripts.com/greg-maxwell/gmaxwell-2017-11-27-advances-in-block-propagation/) | 60 |
 | [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/) | 10 |
 | [Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/) | 10 |
 | [Mining: No Good, The Bad, and The Ugly](https://www.youtube.com/watch?v=k_z-FBAil6k) \(video\) | 15 |
+| [Mining pool reward FAQ](https://en.bitcoin.it/wiki/Mining_pool_reward_FAQ) | 15 |
 | [Why Bitcoin Mining Pools Aren't Incentivized to Broadcast Blocks Quickly](https://bitcoinmagazine.com/articles/why-bitcoin-mining-pools-aren-t-incentivized-to-broadcast-blocks-quickly-1475249510/) | 10 |
 | [Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf) | 30 |
 | [Demystifying The Selfish Mining Bet](https://eklitzke.org/demystifying-the-selfish-mining-bet) | 10 |
 | [Mining pools](https://en.wikipedia.org/wiki/Mining_pool) | 15 |
-| \(_optional_\)[The problem with ASIC Boost](http://www.mit.edu/~jlrubin//public/pdfs/Asicboost.pdf) | 15 |
 | [Overview of the covert AsicBoost allegation](https://blog.bitmex.com/an-overview-of-the-covert-asicboost-allegation-2/) | 15 |
 
 ## Discussion Questions
@@ -26,6 +26,7 @@
 4. Have we seen the difficulty retarget algorithm be manipulated in other projects? Is this a threat to Bitcoin?
 5. In your opinion, is it a good or bad thing that specialized hardware is now needed to mine bitcoin rather than letting individual users participate in that part of the ecosystem?
 6. Consider the following scenario: Segwit2x didn’t happen \(or miners didn’t throw in support for it\) and UASF \(BIP148\) ended up causing a chain split on August 1st, 2017, with minority mining support \(e.g. ~10-20%\). What would likely happen as a result?
+7. Can you ensure the transaction will be processed even if you send it with low fees? Which mechanisms do you have to ensure a stuck transaction (due to low fees) gets processed?
 
 ### Advances in Block Propagation
 
@@ -33,6 +34,7 @@
 1. How is a high stale block rate the best indicator that block propagation times are too high?
 1. Alternatively, while a low stale block rate can be an indicator that block propagation times are good, it could also be an indicator of something more problematic. What could be a bad reason for there to be very few stale blocks?
 1. Greg Maxwell mentioned that miners are hesitant to connect with one another directly, even though it would speed up block propagation. Why?
+1. A low block-orphaning rate can be an indicator that block propagation times are good. It could also be an indicator of something more problematic. What could be a bad reason for there to be very few orphans?
 
 ### Compact Blocks
 
@@ -61,4 +63,3 @@
 ### Overview of the covert AsicBoost allegation
 
 1. What is the difference between overt and covert ASIC Boost?
-
