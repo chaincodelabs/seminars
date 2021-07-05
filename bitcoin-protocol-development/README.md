@@ -10,5 +10,4 @@ _This seminar assumes a basic level of Bitcoin protocol knowledge. You should be
 
 ## Welcome and expectation setting
 
-{% embed url="https://www.youtube.com/embed/rOWsyS9nLNk?rel=0" caption="" %}
-
+{% embed url="https://www.youtube.com/embed/rOWsyS9nLNk?rel=0" caption="Welcome and expectation setting for the Bitcoin protocol development seminar" %}

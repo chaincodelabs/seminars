@@ -8,3 +8,6 @@ _This seminar assumes a basic level of Bitcoin protocol knowledge. You should be
 4. [Limitations](lightning-limitations.md)
 5. [The Future of Lightning](future-of-lightning.md)
 
+## Welcome and expectation setting
+
+{% embed url="https://www.youtube.com/embed/mXhrz060ZFw?rel=0" caption="Welcome and expectation setting for the Lightning protocol development seminar" %}

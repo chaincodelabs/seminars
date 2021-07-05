@@ -4,8 +4,9 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [Network topology creation & maintenance](https://diyhpl.us/wiki/transcripts/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-topology/) | 20 |
+| [Network topology creation & maintenance](https://btctranscripts.com/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-topology/) | 20 |
 | [Routing problems and solutions \(rendezvous, trampoline\)](https://www.youtube.com/watch?v=1O-bhcbh9vE) | 22 |
+| [Trampoline Onion Routing](https://github.com/lightningnetwork/lightning-rfc/blob/trampoline-routing-no-gossip/proposals/trampoline.md) | 15 |
 | [Amount-independent payment routing in Lightning Networks](https://medium.com/coinmonks/amount-independent-payment-routing-in-lightning-networks-6409201ff5ed) | 10 |
 | [Multi-path payments \(MPP\)](https://youtu.be/Og4TGERPZMY) | 21 |
 | Rendezvous routing \([presentation](https://youtu.be/Ms2WwRzBdkM) or [wiki write-up](https://github.com/lightningnetwork/lightning-rfc/wiki/Rendez-vous-mechanism-on-top-of-Sphinx)\) | 10 |

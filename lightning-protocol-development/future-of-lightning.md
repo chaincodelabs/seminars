@@ -5,8 +5,8 @@
 | Content | Time \(min\) |
 | :--- | :--- |
 | [Breaking Down the Bitcoin Lightning Network: eltoo](https://medium.com/@brandonarvanaghi/breaking-down-the-bitcoin-lightning-network-eltoo-c48554f5ae02) | 11 |
-| [Eltoo and the Far Future](https://diyhpl.us/wiki/transcripts/chaincode-labs/2019-09-18-christian-decker-eltoo/) | 30 |
-| [Submarine Swaps](http://diyhpl.us/wiki/transcripts/magicalcryptoconference/2019/submarine-swaps/) | 5 |
+| [Eltoo and the Far Future](https://btctranscripts.com/chaincode-labs/2019-09-18-christian-decker-eltoo/) | 30 |
+| [Submarine Swaps](http://btctranscripts.com/magicalcryptoconference/2019/submarine-swaps/) | 5 |
 | [Loops](https://blog.lightning.engineering/posts/2019/03/20/loop.html) | 5 |
 | [Submarine swaps/ Loops](https://youtu.be/qixhNBIHDyE) | 42 |
 | [Splicing](https://youtu.be/ZzSveBMtUGI) | 22 |

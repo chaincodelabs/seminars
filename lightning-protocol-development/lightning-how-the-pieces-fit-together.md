@@ -4,7 +4,8 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [A walk through the layers of Lightning](https://diyhpl.us/wiki/transcripts/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-layer-by-layer/) | 30 |
+| [A walk through the layers of Lightning](https://btctranscripts.com/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-layer-by-layer/) | 30 |
+| [Uncover the Lightning Network Transactions](https://medium.com/@yyforyongyu/till-its-lightning-fast-uncover-the-lightning-network-transactions-f3180e467857) | 20 |
 | [The Update Layer](https://youtu.be/SoFlRCNdqDg) | 60 |
 | [The Transfer Layer](https://youtu.be/CGE8I8L7BAc) | 41 |
 | [The Multihop Layer](https://youtu.be/P7I-C0_sijg) | 72 |

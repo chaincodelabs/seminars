@@ -13,8 +13,8 @@
 | [SegWit Costs](https://bitcoincore.org/en/2016/10/28/segwit-costs/) | 20 |
 | [Inhibiting a covert attack on the Bitcoin POW function](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-April/013996.html) | 15 |
 | [The Long Road to SegWit](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/) | 20 |
-| \(_optional_\) [Bech32](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/) | 35 |
 | [SegWit Wallet Development](https://bitcoincore.org/en/segwit_wallet_dev/) | 10 |
+| \(_optional_\) [Bech32](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/) | 35 |
 
 ## Discussion Questions
 
