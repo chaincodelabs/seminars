@@ -4,7 +4,7 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) | 20 |
+| [Bitcoin Whitepaper](https://chaincode.com/bitcoin.pdf) | 20 |
 | [Bitcoin Whitepaper Errata and Details](https://gist.github.com/harding/dabea3d83c695e6b937bf090eddf2bb3) | 15 |
 | [The Incomplete History of Bitcoin Development](https://b10c.me/blog/004-the-incomplete-history-of-bitcoin-development/) | 10 |
 | [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) | 25 |
