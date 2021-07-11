@@ -9,7 +9,7 @@
 | [Payment Channels video](https://www.youtube.com/watch?v=4SdBa8ZOfqg) or [Understanding Payment Channels article](https://blog.chainside.net/understanding-payment-channels-4ab018be79d4) | 6 or 10 |
 | [Revocable Transactions](https://rusty.ozlabs.org/?p=450) | 10 |
 | [Bitcoin Timelocks Explained](https://medium.com/summa-technology/bitcoins-time-locks-27e0c362d7a1) | 16 |
-| [Hashed Timelock Contracts](https://rusty.ozlabs.org/?p=462) | 7 |
+| [Revocable transactions with LN-Penalty](https://www.derpturkey.com/revocable-transactions-with-ln-penalty/) | 10 |
 | [Visualizing HTLCs and the Lightning Network's Dirty Little Secret](https://medium.com/@peter_r/visualizing-htlcs-and-the-lightning-networks-dirty-little-secret-cb9b5773a0) | 10 |
 | [Lightning Network BOLT by BOLT](https://www.youtube.com/watch?v=Ysj2yobFMF4) \(up to demo - min 47\) | 47 |
 
