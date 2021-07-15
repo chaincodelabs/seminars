@@ -11,7 +11,7 @@
 | [Submarine swaps/ Loops](https://youtu.be/qixhNBIHDyE) | 42 |
 | [Splicing](https://youtu.be/ZzSveBMtUGI) | 22 |
 | [Multi-party channels/Channel factories](https://youtu.be/PUDWGH_MvmQ) | 13 |
-| [Dual funded channels](https://youtu.be/5wQUMtgsnPs) | 35 |
+| [Dual funded channels](https://www.youtube.com/watch?v=i_GxmNZjwhk) (until min 26) | 26 |
 | [Payment Points: Replacing HTLCs](https://suredbits.com/payment-points-part-1/) | 10 |
 | [Payment Points: "Stuckless" Payments](https://suredbits.com/payment-points-part-2-stuckless-payments/) | 10 |
 
