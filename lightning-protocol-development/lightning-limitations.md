@@ -12,7 +12,7 @@
 | [Incentive problems in the network](https://youtu.be/lByQUr7zPr0) | 34 |
 | [Routing Failures](https://youtu.be/z5vEyvc2vrE) | 17 |
 | [Griefing attacks](https://bitcoinmagazine.com/technical/good-griefing-a-lingering-vulnerability-on-lightning-network-that-still-needs-fixing) | 10 |
-| [Lightning Attack Vectors](https://youtu.be/R5cSrftd8nc) | 29 |
+| [Lightning Attack Vectors](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-attack-vectors-of-lightning-network/) | 30 |
 | [Pinning Attacks](https://github.com/t-bast/lightning-docs/blob/master/pinning-attacks.md) | 40 |
 | [Solutions to inbound capacity problem in Lightning Network](https://medium.com/lightningto-me/practical-solutions-to-inbound-capacity-problem-in-lightning-network-60224aa13393) | 10 |
 | [Channel probing in the face of parallel channels](https://s-tikhomirov.github.io/lightning-probing/) | 25 |
