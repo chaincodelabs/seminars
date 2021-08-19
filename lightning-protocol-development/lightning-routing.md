@@ -10,7 +10,7 @@
 | [Amount-independent payment routing in Lightning Networks](https://medium.com/coinmonks/amount-independent-payment-routing-in-lightning-networks-6409201ff5ed) | 10 |
 | [Multi-path payments \(MPP\)](https://youtu.be/Og4TGERPZMY) | 21 |
 | Rendezvous routing \([presentation](https://youtu.be/Ms2WwRzBdkM) or [wiki write-up](https://github.com/lightningnetwork/lightning-rfc/wiki/Rendez-vous-mechanism-on-top-of-Sphinx)\) | 10 |
-| [Gossip Protocol/Path Finding](https://youtu.be/MeEFUaRnMak) | 60 |
+| [Gossip Protocol/Path Finding](https://youtu.be/NT_dMqB1xuA) | 60 |
 | [Onion Routing](https://youtu.be/toarjBSPFqI) | 11 |
 | [Onion Routing - deep dive](https://youtu.be/D4kX0gR-H0Y) | 38 |
 | [Sphinx](https://github.com/t-bast/lightning-docs/blob/master/sphinx.md) | 20 |
