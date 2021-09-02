@@ -45,7 +45,7 @@
 
 1. Why do CSV and CLTV rely on nLocktime or nSequence being set in the transaction spending the outputs when the script could check if the requirements are being met by itself?
 2. Can both CSV and CLTV be used in the same output and are there any known use cases for it?
-3. Is it fair to say UTXO-level timelocks are superior to transaction-level timelocks since they are baked directly into the protocol and allow more flexiblity and control? Are transaction-level timelocks necessary \(Assuming there's a way to implement UTXO-level timelocks without relying on nLockTime/nSequence\)?
+3. Is it fair to say UTXO-level timelocks are superior to transaction-level timelocks since they are baked directly into the protocol and allow more flexibility and control? Are transaction-level timelocks necessary \(Assuming there's a way to implement UTXO-level timelocks without relying on nLockTime/nSequence\)?
 4. In what scenarios is `OP_CLTV` used in Lightning and in what scenarios is `OP_CSV` used?
 5. Why can `OP_CLTV` and `OP_CSV` not touch the stack? Why are they always either followed by `OP_DROP` or at the end of the script? What are the pros and cons of real-time negotiation of channel parameters?
 
