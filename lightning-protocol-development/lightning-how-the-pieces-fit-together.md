@@ -9,7 +9,7 @@
 | [The Update Layer](https://youtu.be/SoFlRCNdqDg) | 60 |
 | [The Transfer Layer](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-24-fabrice-drouin-the-transfer-layer/) | 41 |
 | [The Multihop Layer](https://youtu.be/P7I-C0_sijg) | 72 |
-| [The other layers \(base and transport\)](https://youtu.be/wyri7cc83kQ) | 17 |
+| [The other layers \(base and transport\)](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-24-fabrice-drouin-base-and-transport-layers-of-lightning-network/) | 17 |
 | [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) | 10 |
 | [How and when do I use HMAC?](https://security.stackexchange.com/questions/20129/how-and-when-do-i-use-hmac) | 10 |
 
