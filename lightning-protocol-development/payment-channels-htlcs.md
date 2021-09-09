@@ -4,8 +4,8 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [History of the Lightning Network](https://www.youtube.com/watch?v=HauP9F16mUM) | 51 |
-| [Lightning ≈ Bitcoin](https://www.youtube.com/watch?v=8lMLo-7yF5k) | 35 |
+| [History of the Lightning Network](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-10-22-christian-decker-history-of-lightning/) | 51 |
+| [Lightning ≈ Bitcoin](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-10-22-christian-decker-lightning-bitcoin/) | 35 |
 | [Payment Channels video](https://www.youtube.com/watch?v=4SdBa8ZOfqg) or [Understanding Payment Channels article](https://blog.chainside.net/understanding-payment-channels-4ab018be79d4) | 6 or 10 |
 | [Revocable Transactions](https://rusty.ozlabs.org/?p=450) | 10 |
 | [Bitcoin Timelocks Explained](https://medium.com/summa-technology/bitcoins-time-locks-27e0c362d7a1) | 16 |
