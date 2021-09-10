@@ -20,7 +20,8 @@
 1. Why was Segwit an important upgrade to the base layer for Lightning?
 2. Why is restoring a non-up-to-date backup unsafe with Lightning? How recent does the backup need to be?
 3. How can we prepare and anticipate for miners fees volatility when creating new payment channels? \(What is the mechanic?\)
-4. What is different about transaction revocation in Eltoo?
+
+*note*: eltoo is mentioned in this presentation. You do not need to understand it at this point. We will be diving much deeper into eltoo in the future of lightning section.
 
 ### Lightning ≈ Bitcoin
 
