@@ -66,7 +66,7 @@
 ### Lightning Network BOLT by BOLT
 
 1. What problem do commitment transactions solve? When a revoked commitment transaction is found, what outputs need to be resolved by the penalty transaction? What happens to the HTLCs?
-2. A node must be able to generate the  for all prior revoked commitments. How can they be stored efficiently? What are the challenges?
+2. A node must be able to generate the revocation keys for all prior revoked commitments. How can they be stored efficiently? What are the challenges?
 3. What is a good value for to-self-delay for the breach remedy and why?
 4. Why is it okay for the channel partner to give up a channel state? What things do they need to enforce \(validate\) before releasing the secret?
 5. What are the economic implications of the fact that gossiping about channel updates is free?
