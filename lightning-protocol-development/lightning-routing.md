@@ -13,7 +13,7 @@
 | [Route Blinding](https://github.com/lightningnetwork/lightning-rfc/blob/route-blinding/proposals/route-blinding.md) | 30 |
 | [Gossip Protocol/Path Finding](https://youtu.be/NT_dMqB1xuA) | 60 |
 | [Onion Routing](https://youtu.be/toarjBSPFqI) | 11 |
-| [Onion Routing - deep dive](https://btctranscripts.com/chaincode-labs/chaincode-residency/) | 38 |
+| [Onion Routing - deep dive](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-christian-decker-onion-routing-deep-dive/) | 38 |
 | [Sphinx](https://github.com/t-bast/lightning-docs/blob/master/sphinx.md) | 20 |
 
 ## Discussion Questions
