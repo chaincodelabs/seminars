@@ -7,7 +7,7 @@
 | [Lightning Network 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e#:~:text=Lightning%20Problem%201%3A%20Liquidity) \(starting at Lightning Problem 1: Liquidity\) | 20 |
 | [Lightning Limitations](http://btctranscripts.com/boltathon/2019-04-06-alex-bosworth-major-limitations/) | 35 |
 | [Spamming the Lightning Network](https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md) | 30 |
-| [Limitations of lightweight clients](https://youtu.be/ULVItljEiFE) | 18 |
+| [Limitations of lightweight clients](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-fabrice-drouin-limitations-of-lightweight-clients/) | 18 |
 | [Fee Management](https://youtu.be/r8S3iELg9_U) \(until min 21\) | 21 |
 | [Incentive problems in the network](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-09-18-alex-bosworth-incentive-problems-in-the-lightning-network/) | 34 |
 | [Routing Failures](https://youtu.be/z5vEyvc2vrE) | 17 |
