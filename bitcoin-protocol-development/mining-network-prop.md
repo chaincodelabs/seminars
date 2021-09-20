@@ -16,6 +16,10 @@
 | [Mining pools](https://en.wikipedia.org/wiki/Mining_pool) | 15 |
 | [Overview of the covert AsicBoost allegation](https://blog.bitmex.com/an-overview-of-the-covert-asicboost-allegation-2/) | 15 |
 
+## Optional Practical Exercise
+
+- [Larry Ruane](https://github.com/LarryRuane) has created a [proof of work mining simulator](https://github.com/LarryRuane/minesim) along with [exercises and discussion questions](https://github.com/LarryRuane/minesim#exercises-discussion-questions).
+
 ## Discussion Questions
 
 ### Mining and Consensus
