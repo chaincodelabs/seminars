@@ -21,7 +21,7 @@
 | \(_optional_\) [Optech Series: Preparing for Taproot](https://bitcoinops.org/en/preparing-for-taproot/) | 60 |
 | \(_optional_\) [On Building Consensus and Speedy Trial](http://r6.ca/blog/20210615T191422Z.html) | 20 |
 
-## Optional Exercise
+## Optional Practical Exercise
 
 - [Taproot workshop by Bitcoin Optech Group](https://bitcoinops.org/en/schorr-taproot-workshop/) (3+ hours)
 

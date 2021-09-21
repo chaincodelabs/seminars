@@ -14,6 +14,10 @@ _Note that this section depends on reviewing the network propagation resources o
 | [Network partitioning & network level privacy attacks](http://btctranscripts.com/chaincode-labs/2019-06-12-ethan-heilman-network-partitioning-attacks/) | 40 |
 | \(_optional_\) [Researching P2P privacy attacks](https://youtu.be/qKNEUfnYue0) \(video\) | 90 |
 
+## Optional Practical Exercise
+
+- [Will Clark](https://github.com/willcl-ark) has an updated fork of [tinybitcoinpeer](https://github.com/willcl-ark/tinybitcoinpeer), a 200 line python program that allows you to explore the Bitcoin p2p network.
+
 ## Discussion Questions
 
 ### Attacking P2P
