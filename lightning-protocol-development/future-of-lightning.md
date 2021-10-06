@@ -9,7 +9,7 @@
 | [Submarine Swaps](http://btctranscripts.com/magicalcryptoconference/2019/submarine-swaps/) | 5 |
 | [Loops](https://blog.lightning.engineering/posts/2019/03/20/loop.html) | 5 |
 | [Submarine swaps/ Loops](https://youtu.be/qixhNBIHDyE) | 42 |
-| [Splicing](https://youtu.be/ZzSveBMtUGI) | 22 |
+| [Splicing](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-rene-pickhardt-splicing/) | 22 |
 | [Multi-party channels/Channel factories](https://youtu.be/PUDWGH_MvmQ) | 13 |
 | [Dual funded channels](https://www.youtube.com/watch?v=i_GxmNZjwhk) (until min 26) | 26 |
 | [Payment Points: Replacing HTLCs](https://suredbits.com/payment-points-part-1/) | 10 |
