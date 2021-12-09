@@ -29,9 +29,8 @@ A week before the meeting, the organizers will post deputy assignments along wit
 ### On the day of:
 
 * As a deputy, you will need to check-in on slack no later than 15 minutes before the start time. \(Ping Caralie on slack to let her know you're ready.\)
-* For the first 5-10 minutes, we'll meet as a full group. \(Week 1 & 5 only. Other weeks, you'll go straight to breakout\)
-* We then spend the majority of time in smaller breakout groups.
-* Make sure everyone introduces themselves before you get started.
+* Week 1 for the first 5-10 minutes, we'll meet as a full group. All other weeks, you'll go straight to breakout and be there for an hour. 
+* Each week, make sure everyone introduces themselves before you get started.
 
 Your job isn't to lead but to facilitate. You are a timekeeper and a traffic cop. There is no expectation of being an authority on all subjects. Ask others to take turns talking and exploring their questions. Use the Jitsi metrics \(Jitsi records how long everyone has spoken for\) as a guide of who to draw into the conversation.
 
@@ -39,5 +38,5 @@ All participants are asked to generate their own discussion questions based on t
 
 If you need a hand or feel like the discussion isn't lively, you can slack Jonas and/or Caralie.
 
-There will be a post in the designated deputy slack channel alerting everyone when it's time to meet together for the last ~15 minutes of the session. Please encourage your group to return to the main Jitsi room when alerted. Then you're off duty!
+There will be a slack post alerting everyone when it's time to meet together for the last ~30 minutes of the session. Please encourage your group to return to the main Jitsi room when alerted. Then you're off duty!
 
