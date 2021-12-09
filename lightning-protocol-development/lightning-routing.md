@@ -8,10 +8,10 @@
 | [Routing problems and solutions \(rendezvous, trampoline\)](https://btctranscripts.com/scalingbitcoin/tel-aviv-2019/edgedevplusplus/2019-09-09-carla-kirk-cohen-routing-problems-and-solutions/) | 22 |
 | [Trampoline Onion Routing](https://github.com/lightningnetwork/lightning-rfc/blob/trampoline-routing-no-gossip/proposals/trampoline.md) | 15 |
 | [Amount-independent payment routing in Lightning Networks](https://medium.com/coinmonks/amount-independent-payment-routing-in-lightning-networks-6409201ff5ed) | 10 |
-| [Multi-path payments \(MPP\)](https://youtu.be/Og4TGERPZMY) | 21 |
+| [Multi-path payments \(MPP\)](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-alex-bosworth-mpp/) | 21 |
 | Rendezvous routing \([presentation](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-28-christian-decker-rendezvous-routing/) or [wiki write-up](https://github.com/lightningnetwork/lightning-rfc/wiki/Rendez-vous-mechanism-on-top-of-Sphinx)\) | 10 |
 | [Route Blinding](https://github.com/lightningnetwork/lightning-rfc/blob/route-blinding/proposals/route-blinding.md) | 30 |
-| [Gossip Protocol/Path Finding](https://youtu.be/NT_dMqB1xuA) | 60 |
+| [Gossip Protocol/Path Finding](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-rene-pickhardt-path-finding-lightning-network/) | 60 |
 | [Onion Routing](https://youtu.be/toarjBSPFqI) | 11 |
 | [Onion Routing - deep dive](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-christian-decker-onion-routing-deep-dive/) | 38 |
 | [Sphinx](https://github.com/t-bast/lightning-docs/blob/master/sphinx.md) | 20 |
