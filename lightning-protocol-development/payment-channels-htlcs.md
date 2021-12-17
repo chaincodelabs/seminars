@@ -27,6 +27,7 @@
 
 1. Given the fact that Lightning is punishment-based and requires nodes to be online, could an attacker trick you into publishing old states and lose all your funds?
 2. How are accidental breaches handled on Lightning \(since at the moment this is mostly what is seen in the the wild\)?
+3. Do you consider Lightning to be a proof-of-stake system?
 
 ### Payment Channels video \| Understanding Payment Channels article
 

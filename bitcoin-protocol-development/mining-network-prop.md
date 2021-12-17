@@ -6,6 +6,7 @@
 | :--- | :--- |
 | [Mining and Consensus in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch10.asciidoc) | 75 |
 | [Advances in Block Propagation with Greg Maxwell](https://btctranscripts.com/greg-maxwell/gmaxwell-2017-11-27-advances-in-block-propagation/) | 60 |
+| [Why Is It Taking 20 Minutes to Mine This Bitcoin Block?](http://r6.ca/blog/20180225T160548Z.html) | 10 |
 | [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/) | 10 |
 | [Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/) | 10 |
 | [Mining: No Good, The Bad, and The Ugly](https://www.youtube.com/watch?v=k_z-FBAil6k) \(video\) | 15 |
