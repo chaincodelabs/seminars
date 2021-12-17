@@ -24,9 +24,8 @@
 ### The Update Layer
 
 1. How would switching to PTLCs affect the update layer?
-2. If LN were to upgrade the update layer, to Eltoo for example, would the network need to end-to-end upgrade?
-3. Would there ever be a reason to prefer LN-penalty when creating a channel between two Eltoo-capable nodes?
-4. Why are the second stage HTLC transactions not part of the commitment transaction?
+2. If LN were to upgrade the update layer, would the network need to end-to-end upgrade?
+3. Why are the second stage HTLC transactions not part of the commitment transaction?
 
 ### The Transfer Layer
 

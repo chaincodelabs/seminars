@@ -30,6 +30,7 @@
 1. What privacy tradeoffs do trampoline payments have? How can they be mitigated?
 2. Can trampoline payments be combined with atomic multi-path payments to mitigate privacy issues?
 3. How do trampoline and rendezvous routing differ? Why would you use one or the other?
+4. Is the Lightning routing problem NP-hard?
 
 ### Multi-path payments \(MPP\)
 

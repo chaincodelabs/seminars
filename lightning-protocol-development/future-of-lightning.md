@@ -26,6 +26,7 @@
 
 1. How does a cooperative close work with Eltoo?
 2. Can channels using Eltoo or PTLC be mixed with standard channels in a multi-hop payment?
+3. Would there ever be a reason to prefer LN-penalty when creating a channel between two Eltoo-capable nodes?
 
 ### Submarine swaps and Loops
 
