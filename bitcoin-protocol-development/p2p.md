@@ -30,7 +30,7 @@ _Note that this section depends on reviewing the network propagation resources o
 
 1. What is the reasoning behind the max inbound and max outbound defaults? For which type of user would they be considered ideal, and when might they be optimized?
 2. What is the rationale behind the "new"/"tried" table design? Were there any prior inspirations within the field of distributed computing?
-3. How does a fixed set of 4 outbound peers get chosen? In what circumstances would you evict or change them?
+3. How are anchor connections chosen? In what circumstances would you evict or change them?
 4. What are feeler connections, and when are they used?
 5. How many honest nodes does a node need to connect to ensure it is connected to the right network/blockchain?
 
