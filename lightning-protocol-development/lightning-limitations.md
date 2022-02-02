@@ -28,7 +28,7 @@
 
 ### Spamming the Lightning Network
 
-1. What variables other than `htlc_min_val` and `max_num_htlcs` could be tweaked to make it harder or less attractive for an attacker to try and lock up a channel?
+1. What variables other than `htlc_minimum_msat` and `max_accepted_htlcs` could be tweaked to make it harder or less attractive for an attacker to try and lock up a channel?
 
 ### Limitations of lightweight clients
 
