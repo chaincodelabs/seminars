@@ -15,6 +15,7 @@
 | [Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf) | 30 |
 | [Demystifying The Selfish Mining Bet](https://eklitzke.org/demystifying-the-selfish-mining-bet) | 10 |
 | [Mining pools](https://en.wikipedia.org/wiki/Mining_pool) | 15 |
+| \(_optional_\) [The History and Future of the Stratum protocol](https://docsend.com/view/szk48syby33q28zq) | 35 |
 | [Overview of the covert AsicBoost allegation](https://blog.bitmex.com/an-overview-of-the-covert-asicboost-allegation-2/) | 15 |
 
 ## Optional Practical Exercise
