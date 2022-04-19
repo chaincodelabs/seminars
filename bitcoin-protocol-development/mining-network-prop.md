@@ -1,15 +1,17 @@
 # Mining and Network Block Propagation
 
+If you haven't recently read the [Mining and Consensus chapter in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/77b91b1949e2c03a36c395586a44dac20ec41533/ch10.asciidoc), please review it before diving into the content below.
+
 ## Reading
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [Mining and Consensus in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/f8b883dcd4e3d1b9adf40fed59b7e898fbd9241f/ch10.asciidoc) | 75 |
 | [Advances in Block Propagation with Greg Maxwell](https://btctranscripts.com/greg-maxwell/gmaxwell-2017-11-27-advances-in-block-propagation/) | 60 |
 | [Why Is It Taking 20 Minutes to Mine This Bitcoin Block?](http://r6.ca/blog/20180225T160548Z.html) | 10 |
 | [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/) | 10 |
 | [Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/) | 10 |
 | [Mining: No Good, The Bad, and The Ugly](https://btctranscripts.com/magicalcryptoconference/2019/the-state-of-bitcoin-mining/) | 15 |
+| [The History and Future of the Stratum protocol](https://docsend.com/view/szk48syby33q28zq) | 35 |
 | [Mining pool reward FAQ](https://en.bitcoin.it/wiki/Mining_pool_reward_FAQ) | 15 |
 | [Why Bitcoin Mining Pools Aren't Incentivized to Broadcast Blocks Quickly](https://bitcoinmagazine.com/articles/why-bitcoin-mining-pools-aren-t-incentivized-to-broadcast-blocks-quickly-1475249510/) | 10 |
 | [Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf) | 30 |
