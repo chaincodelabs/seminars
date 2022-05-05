@@ -18,7 +18,8 @@
 
 ## Discussion Questions
 
-1. How do watchtowers work with non-advertised channels when part of the graph is not known? Or with trampoline when the routing calculation is outsourced?
+1. How do watchtowers work with non-advertised channels when part of the graph is not known? 
+2. Is the Lightning routing problem NP-hard?
 
 ### Network topology creation & maintenance
 
@@ -30,7 +31,6 @@
 1. What privacy tradeoffs do trampoline payments have? How can they be mitigated?
 2. Can trampoline payments be combined with atomic multi-path payments to mitigate privacy issues?
 3. How do trampoline and rendezvous routing differ? Why would you use one or the other?
-4. Is the Lightning routing problem NP-hard?
 
 ### Multi-path payments \(MPP\)
 
@@ -38,11 +38,10 @@
 2. What are the advantages and disadvantages of multipath routing?
 3. What problems could arise if a node participates in multiple paths of a multi-path payment?
 
-### Rendezvous routing
-
-1. Explain rendezvous routing in plain English.
-2. Would it make sense to chain multiple rendezvous meeting points?
-3. What are the benefits and downsides of Rendezvous routing?
+### Route Blinding
+1. What advantages do blinded routes offer over rendezvous onions? Do they have any drawbacks compared to rendezvous?
+2. Blinded routes over-estimate sender fees and time locks to provide better receiver privacy. Discuss this trade-off. 
+3. Routing strategies such as route blinding, rendezvous and trampoline all add extra information to routing onions. Does this reduce privacy? 
 
 ### Gossip Protocol/Path Finding
 
