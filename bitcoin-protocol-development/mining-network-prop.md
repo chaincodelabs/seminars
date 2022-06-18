@@ -6,7 +6,7 @@ If you haven't recently read the [Mining and Consensus chapter in Mastering Bitc
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [Advances in Block Propagation with Greg Maxwell](https://btctranscripts.com/greg-maxwell/gmaxwell-2017-11-27-advances-in-block-propagation/) | 60 |
+| [Advances in Block Propagation with Greg Maxwell](https://btctranscripts.com/greg-maxwell/2017-11-27-gmaxwell-advances-in-block-propagation/) | 60 |
 | [Why Is It Taking 20 Minutes to Mine This Bitcoin Block?](http://r6.ca/blog/20180225T160548Z.html) | 10 |
 | [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/) | 10 |
 | [Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/) | 10 |
