@@ -6,6 +6,7 @@ _Note that this section depends on reviewing the network propagation resources o
 
 | Content | Time \(min\) |
 | :--- | :--- |
+| [Map of the Bitcoin Network](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3) | 20 |
 | Attacking p2p of Bitcoin Core w/ Amiti Uttarwar \([video \(until min 41\)](https://youtu.be/H-wH6mY9pZo?t=257) or [transcript](https://btctranscripts.com/la-bitdevs/2020-04-16-amiti-uttarwar-attacking-bitcoin-core/)\) | 35 |
 | [The Bitcoin p2p Network with John Newbery](https://btctranscripts.com/scalingbitcoin/stanford-2017/edgeplusplus/p2p-john-newbery/) | 50 |
 | [The Bitcoin Network in Mastering Bitcoin \(start at Network Discovery section\)](https://github.com/bitcoinbook/bitcoinbook/blob/b5a7b5df3eddb332311ed97af09b678257ce62ca/ch08.asciidoc#network-discovery) | 15 |
@@ -49,4 +50,3 @@ _Note that this section depends on reviewing the network propagation resources o
 ### \[OPTIONAL\] Researching P2P privacy attacks
 
 1. How does "diffusion" message spreading work and why is it ineffective against de-anonymization?
-
