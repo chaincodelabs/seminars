@@ -7,7 +7,8 @@
 | [What is SegWit?](https://bitcoinmagazine.com/guides/what-is-segwit) | 5 |
 | [SegWit in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc#segregated-witness) or [SegWit video w/ Jimmy Song](https://www.youtube.com/watch?v=Txfy2mFe16A) | 30 |
 | [Transaction Malleability](https://eklitzke.org/bitcoin-transaction-malleability) | 15 |
-| [SegWit Benefits](https://bitcoincore.org/en/2016/01/26/segwit-benefits/) | 12 |
+| [SegWit Benefits](https://bitcoincore.org/en/2016/01/26/segwit-benefits/) | 15 |
+| \(_optional_\) [How SegWit solved the quadratic sighash problem](https://fjahr.com/posts/how-segwit-solved-the-quadratic-sighash-problem/) | 10 |
 | [SegWit's Impact on Scalability](https://btctranscripts.com/scalingbitcoin/hong-kong-2015/segregated-witness-and-its-impact-on-scalability/) | 30 |
 | [Advanced SegWit w/ James O'Beirne](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-18-james-obeirne-advanced-segwit/) | 60 |
 | [SegWit Costs](https://bitcoincore.org/en/2016/10/28/segwit-costs/) | 20 |
@@ -22,7 +23,6 @@
 
 1. Is a non-segwit node considered a full node?
 2. What is the difference between a hard and soft fork?
-
 
 ### SegWit in Mastering Bitcoin / SegWit video w/ Jimmy Song
 
