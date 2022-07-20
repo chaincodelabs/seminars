@@ -11,6 +11,7 @@ If you haven't recently read the [Mining and Consensus chapter in Mastering Bitc
 | [Compact Blocks](https://bitcoincore.org/en/2016/06/07/compact-blocks-faq/) | 10 |
 | [Relay Networks and FIBRE](https://bluematt.bitcoin.ninja/2016/07/07/relay-networks/) | 10 |
 | [Mining: No Good, The Bad, and The Ugly](https://btctranscripts.com/magicalcryptoconference/2019/the-state-of-bitcoin-mining/) | 15 |
+| \(optional video\) [Hijacking Bitcoin: Routing Attacks on Cryptocurrencies](https://www.youtube.com/watch?v=4rTp37nJzGs) | 21 |
 | [The History and Future of the Stratum protocol](https://docsend.com/view/szk48syby33q28zq) | 35 |
 | [Mining pool reward FAQ](https://en.bitcoin.it/wiki/Mining_pool_reward_FAQ) | 15 |
 | [Why Bitcoin Mining Pools Aren't Incentivized to Broadcast Blocks Quickly](https://bitcoinmagazine.com/articles/why-bitcoin-mining-pools-aren-t-incentivized-to-broadcast-blocks-quickly-1475249510/) | 10 |
