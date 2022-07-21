@@ -4,14 +4,19 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [History of the Lightning Network](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-10-22-christian-decker-history-of-lightning/) | 51 |
+| [History of the Lightning Network](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-10-22-christian-decker-history-of-lightning/) | 50 |
 | [Lightning ≈ Bitcoin](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-10-22-christian-decker-lightning-bitcoin/) | 35 |
 | [Payment Channels video](https://www.youtube.com/watch?v=4SdBa8ZOfqg) or [Understanding Payment Channels article](https://blog.chainside.net/understanding-payment-channels-4ab018be79d4) | 6 or 10 |
-| [Revocable Transactions](https://rusty.ozlabs.org/?p=450) | 10 |
-| [Bitcoin Timelocks Explained](https://medium.com/summa-technology/bitcoins-time-locks-27e0c362d7a1) | 16 |
+| [Creating a channel](https://ellemouton.com/posts/creating-a-channel/) | 10 |
+| [Updating State](https://ellemouton.com/posts/updating-state/) | 10 |
+| [Revocation in more detail](https://ellemouton.com/posts/revocation/) | 10 |
 | [Revocable transactions with LN-Penalty](https://www.derpturkey.com/revocable-transactions-with-ln-penalty/) | 10 |
+| [HTLC Overview](https://ellemouton.com/posts/htlc/) | 10 |
+| [HTLC Deep Dive](https://ellemouton.com/posts/htlc-deep-dive/) | 10 |
+| [Bitcoin Timelocks Explained](https://medium.com/summa-technology/bitcoins-time-locks-27e0c362d7a1) | 20 |
 | [Visualizing HTLCs and the Lightning Network's Dirty Little Secret](https://medium.com/@peter_r/visualizing-htlcs-and-the-lightning-networks-dirty-little-secret-cb9b5773a0) | 10 |
 | [Lightning Network BOLT by BOLT](https://btctranscripts.com/misc/2018-07-24-la-blockchain-jim-posen-lightning-bolt-by-bolt/) \(up to demo - min 47\) | 47 |
+| \(optional video\) [Bitcoin Lightning Transactions & Protocol Deep Dive](https://www.youtube.com/watch?v=to8XItlplac) | 77 |
 
 ## Discussion Questions
 
@@ -25,7 +30,7 @@
 
 ### Lightning ≈ Bitcoin
 
-1. Given the fact that Lightning is punishment-based and requires nodes to be online, could an attacker trick you into publishing old states and lose all your funds?
+1. Given the fact that Lightning is punishment-based and requires nodes to be online, could an attacker trick you into publishing old states and lose all your funds? How long can one party go offline before the security of funds in the channel are compromised?
 2. How are accidental breaches handled on Lightning \(since at the moment this is mostly what is seen in the the wild\)?
 3. Do you consider Lightning to be a proof-of-stake system?
 
@@ -33,7 +38,7 @@
 
 1. Why is a unidirectional channel easy to implement?
 2. What is the benefit of the asymmetric commitment transactions?
-3. When two parties exchange the previous commitment's secrets \(to invalidate previous state\), how do you make sure that the exchange happen atomically? \(i.e., that both receive the other's secret, or none at all\)
+3. When two parties exchange the previous commitment's secrets \(to invalidate previous state\), how do you make sure that the exchange happen atomically? \(i.e., that both receive the other's secret, or none at all\). For example, what happens if Alice sends bob 1000 stats, but then never sends a new commitment signed after sharing revocation key?
 4. How do you exchange previous commitment data if the parties aren't online on the same time?
 5. Would it be possible for channels to have a custom penalty agreement that does not take all the funds on a breach?
 
@@ -45,11 +50,12 @@
 
 ### Bitcoin Timelocks Explained
 
-1. Why do CSV and CLTV rely on nLocktime or nSequence being set in the transaction spending the outputs when the script could check if the requirements are being met by itself?
-2. Can both CSV and CLTV be used in the same output and are there any known use cases for it?
-3. Is it fair to say UTXO-level timelocks are superior to transaction-level timelocks since they are baked directly into the protocol and allow more flexibility and control? Are transaction-level timelocks necessary \(Assuming there's a way to implement UTXO-level timelocks without relying on nLockTime/nSequence\)?
-4. In what scenarios is `OP_CLTV` used in Lightning and in what scenarios is `OP_CSV` used?
-5. Why can `OP_CLTV` and `OP_CSV` not touch the stack? Why are they always either followed by `OP_DROP` or at the end of the script? What are the pros and cons of real-time negotiation of channel parameters?
+1. What are the different locations for timelocks? Why do we use CLTV instead of CSV in the HTLC output of the commitment transaction? What is Median-Time-Past?
+2. Why do CSV and CLTV rely on nLocktime or nSequence being set in the transaction spending the outputs when the script could check if the requirements are being met by itself?
+3. Can both CSV and CLTV be used in the same output and are there any known use cases for it?
+4. Is it fair to say UTXO-level timelocks are superior to transaction-level timelocks since they are baked directly into the protocol and allow more flexibility and control? Are transaction-level timelocks necessary \(Assuming there's a way to implement UTXO-level timelocks without relying on nLockTime/nSequence\)?
+5. In what scenarios is `OP_CLTV` used in Lightning and in what scenarios is `OP_CSV` used?
+6. Why can `OP_CLTV` and `OP_CSV` not touch the stack? Why are they always either followed by `OP_DROP` or at the end of the script? What are the pros and cons of real-time negotiation of channel parameters?
 
 ### Hashed Timelock Contracts
 
@@ -72,4 +78,3 @@
 3. What is a good value for to-self-delay for the breach remedy and why?
 4. Why is it okay for the channel partner to give up a channel state? What things do they need to enforce \(validate\) before releasing the secret?
 5. What are the economic implications of the fact that gossiping about channel updates is free?
-

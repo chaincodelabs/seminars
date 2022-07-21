@@ -6,6 +6,7 @@
 | :--- | :--- |
 | [Lightning Network 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e#:~:text=Lightning%20Problem%201%3A%20Liquidity) \(starting at Lightning Problem 1: Liquidity\) | 20 |
 | [Lightning Limitations](http://btctranscripts.com/boltathon/2019-04-06-alex-bosworth-major-limitations/) | 35 |
+| [What Are Anchor Outputs?](https://fanismichalakis.fr/posts/anchor-outputs/) | 15 |
 | [Spamming the Lightning Network](https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md) | 30 |
 | [Limitations of lightweight clients](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-fabrice-drouin-limitations-of-lightweight-clients/) | 18 |
 | [Fee Management](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-fee-management/) | 20 |
