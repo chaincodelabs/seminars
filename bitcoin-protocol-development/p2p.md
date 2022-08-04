@@ -12,7 +12,7 @@ _Note that this section depends on reviewing the network propagation resources o
 | [The Bitcoin Network in Mastering Bitcoin \(start at Network Discovery section\)](https://github.com/bitcoinbook/bitcoinbook/blob/b5a7b5df3eddb332311ed97af09b678257ce62ca/ch08.asciidoc#network-discovery) | 15 |
 | [Network partition resistance](https://gist.github.com/sdaftuar/c2a3320c751efb078a7c1fd834036cb0) | 15 |
 | [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://eprint.iacr.org/2015/263.pdf) | 60 |
-| [Network partitioning & network level privacy attacks](http://btctranscripts.com/chaincode-labs/2019-06-12-ethan-heilman-network-partitioning-attacks/) | 40 |
+| [Network partitioning & network level privacy attacks](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-12-ethan-heilman-network-partitioning-attacks/) | 40 |
 | \(_optional_\) [Transport Encryption & BIP 324](https://bip324.com/) | 10 |
 | \(_optional video_\) [Researching P2P privacy attacks](https://youtu.be/qKNEUfnYue0) | 90 |
 
