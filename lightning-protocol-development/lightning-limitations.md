@@ -27,6 +27,10 @@
 1. What is the danger of being able to associate a base layer bitcoin node with the owner’s lightning node?
 2. What problem do anchor outputs resolve? Why don't they solve the pinning problem?
 
+### What Are Anchor Outputs?
+
+1. Can including fees in channel transactions be abused by attackers? How do anchors seek to fix this?
+
 ### Spamming the Lightning Network
 
 1. What variables other than `htlc_minimum_msat` and `max_accepted_htlcs` could be tweaked to make it harder or less attractive for an attacker to try and lock up a channel?
@@ -55,8 +59,7 @@
 
 ### Pinning Attacks
 
-1. Can including fees in channel transactions be abused by attackers? How do anchors seek to fix this?
-2. If a channel is being closed unilaterally, and the commitment tx has a low fee, can one of the parties bump the fees with CPFP \(spend their output with a high fee\)? If not, why not?
+1. If a channel is being closed unilaterally, and the commitment tx has a low fee, can one of the parties bump the fees with CPFP \(spend their output with a high fee\)? If not, why not?
 
 ### On the Difficulty of Hiding the Balance of Lightning Network Channels
 
