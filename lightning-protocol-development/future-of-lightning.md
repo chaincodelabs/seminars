@@ -6,7 +6,7 @@
 | :--- | :--- |
 | [Breaking Down the Bitcoin Lightning Network: eltoo](https://medium.com/@brandonarvanaghi/breaking-down-the-bitcoin-lightning-network-eltoo-c48554f5ae02) | 11 |
 | [Eltoo by fiatjaf](https://fiatjaf.com/ffdfe772.html) | 10 |
-| \(_optional_\) [Eltoo and the Far Future](https://btctranscripts.com/chaincode-labs/2019-09-18-christian-decker-eltoo/) | 30 |
+| \(_optional_\) [Eltoo and the Far Future](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-christian-decker-eltoo/) | 30 |
 | \(_optional_\) [Onion Messages](https://github.com/lightning/bolts/pull/759) | X |
 | [Keysend](https://lightning.readthedocs.io/lightning-keysend.7.html) (proposed BOLT12) | 10 |
 | [Offers](https://bitcoinops.org/en/topics/offers/) (proposed BOLT12) | 5 |
