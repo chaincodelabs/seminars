@@ -14,7 +14,7 @@ _Note that this section depends on reviewing the network propagation resources o
 | [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://eprint.iacr.org/2015/263.pdf) | 60 |
 | [Network partitioning & network level privacy attacks](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-12-ethan-heilman-network-partitioning-attacks/) | 40 |
 | \(_optional_\) [Transport Encryption & BIP 324](https://bip324.com/) | 10 |
-| \(_optional video_\) [Researching P2P privacy attacks](https://youtu.be/qKNEUfnYue0) | 90 |
+| \(_optional_\) [Researching P2P privacy attacks](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-10-09-giulia-fanti-p2p-privacy-attacks/) | 90 |
 
 ## Optional Practical Exercise
 
