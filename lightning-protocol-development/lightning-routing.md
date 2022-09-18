@@ -4,21 +4,21 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [Network topology creation & maintenance](https://btctranscripts.com/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-topology/) | 20 |
-| [Onion Routing \(video\)](https://youtu.be/toarjBSPFqI) | 11 |
-| [Onion Routing - deep dive](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-christian-decker-onion-routing-deep-dive/) | 38 |
-| [Routing problems and solutions \(rendezvous, trampoline\)](https://btctranscripts.com/scalingbitcoin/tel-aviv-2019/edgedevplusplus/2019-09-09-carla-kirk-cohen-routing-problems-and-solutions/) | 25 |
-| [Trampoline Onion Routing](https://github.com/lightningnetwork/lightning-rfc/blob/trampoline-routing-no-gossip/proposals/trampoline.md) | 15 |
-| [Amount-independent payment routing in Lightning Networks](https://medium.com/coinmonks/amount-independent-payment-routing-in-lightning-networks-6409201ff5ed) | 10 |
-| [Multi-path payments \(MPP\)](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-alex-bosworth-mpp/) | 20 |
-| [MPP: Making Channel Balances Add Up](https://lightning.engineering/posts/2020-05-07-mpp/) | 10 |
-| Rendezvous routing \([presentation](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-28-christian-decker-rendezvous-routing/) or [wiki write-up](https://github.com/lightningnetwork/lightning-rfc/wiki/Rendez-vous-mechanism-on-top-of-Sphinx)\) | 10 |
-| [Route Blinding](https://github.com/lightningnetwork/lightning-rfc/blob/route-blinding/proposals/route-blinding.md) | 30 |
-| [Gossip Protocol/Path Finding](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-rene-pickhardt-path-finding-lightning-network/) | 60 |
-| [Sphinx](https://github.com/t-bast/lightning-docs/blob/master/sphinx.md) | 20 |
-| \(optional\) [Just in Time Routing](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-March/001891.html) | 10 |
-| \(optional video\) [Lightning Watchtowers and Why You Should Use Them](https://www.youtube.com/watch?v=6n5eaI6glHA) | 43 |
-| \(optional\) [Optimally Reliable & Cheap Payment Flows on the Lightning Network](https://arxiv.org/pdf/2107.05322.pdf) | 45 |
+| [Network topology creation & maintenance](https://btctranscripts.com/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-topology/) | 30 |
+| [Onion Routing \(video\)](https://youtu.be/toarjBSPFqI) | 15 |
+| [Onion Routing - deep dive](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-christian-decker-onion-routing-deep-dive/) | 50 |
+| [Routing problems and solutions \(rendezvous, trampoline\)](https://btctranscripts.com/scalingbitcoin/tel-aviv-2019/edgedevplusplus/2019-09-09-carla-kirk-cohen-routing-problems-and-solutions/) | 35 |
+| [Trampoline Onion Routing](https://github.com/lightningnetwork/lightning-rfc/blob/trampoline-routing-no-gossip/proposals/trampoline.md) | 25 |
+| [Amount-independent payment routing in Lightning Networks](https://medium.com/coinmonks/amount-independent-payment-routing-in-lightning-networks-6409201ff5ed) | 15 |
+| [Multi-path payments \(MPP\)](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-alex-bosworth-mpp/) | 30 |
+| [MPP: Making Channel Balances Add Up](https://lightning.engineering/posts/2020-05-07-mpp/) | 20 |
+| Rendezvous routing \([presentation](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-28-christian-decker-rendezvous-routing/) or [wiki write-up](https://github.com/lightningnetwork/lightning-rfc/wiki/Rendez-vous-mechanism-on-top-of-Sphinx)\) | 20 |
+| [Route Blinding](https://github.com/lightningnetwork/lightning-rfc/blob/route-blinding/proposals/route-blinding.md) | 40 |
+| [Gossip Protocol/Path Finding](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-rene-pickhardt-path-finding-lightning-network/) | 80 |
+| [Sphinx](https://github.com/t-bast/lightning-docs/blob/master/sphinx.md) | 30 |
+| \(optional\) [Just in Time Routing](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-March/001891.html) | 20 |
+| \(optional video\) [Lightning Watchtowers and Why You Should Use Them](https://www.youtube.com/watch?v=6n5eaI6glHA) | 50 |
+| \(optional\) [Optimally Reliable & Cheap Payment Flows on the Lightning Network](https://arxiv.org/pdf/2107.05322.pdf) | 60 |
 
 ## Discussion Questions
 

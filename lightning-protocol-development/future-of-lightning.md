@@ -4,24 +4,24 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [Breaking Down the Bitcoin Lightning Network: eltoo](https://medium.com/@brandonarvanaghi/breaking-down-the-bitcoin-lightning-network-eltoo-c48554f5ae02) | 11 |
-| [Eltoo by fiatjaf](https://fiatjaf.com/ffdfe772.html) | 10 |
-| \(_optional_\) [Eltoo and the Far Future](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-christian-decker-eltoo/) | 30 |
+| [Breaking Down the Bitcoin Lightning Network: eltoo](https://medium.com/@brandonarvanaghi/breaking-down-the-bitcoin-lightning-network-eltoo-c48554f5ae02) | 15 |
+| [Eltoo by fiatjaf](https://fiatjaf.com/ffdfe772.html) | 15 |
+| \(_optional_\) [Eltoo and the Far Future](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-christian-decker-eltoo/) | 40 |
 | \(_optional_\) [Onion Messages](https://github.com/lightning/bolts/pull/759) | X |
-| [Keysend](https://lightning.readthedocs.io/lightning-keysend.7.html) (proposed BOLT12) | 10 |
-| [Offers](https://bitcoinops.org/en/topics/offers/) (proposed BOLT12) | 5 |
+| [Keysend](https://lightning.readthedocs.io/lightning-keysend.7.html) (proposed BOLT12) | 15 |
+| [Offers](https://bitcoinops.org/en/topics/offers/) (proposed BOLT12) | 10 |
 | \(_optional_\) [Route Blinding](https://github.com/lightning/bolts/pull/765) | X |
-| [Submarine Swaps](https://blog.muun.com/a-closer-look-at-submarine-swaps-in-the-lightning-network/) | 10 |
-| [Loops](https://blog.lightning.engineering/posts/2019/03/20/loop.html) | 5 |
-| \(_optional_\) [Submarine swaps/ Loops](https://youtu.be/qixhNBIHDyE) | 42 |
-| [Splicing](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-rene-pickhardt-splicing/) | 22 |
-| [Splices and Liquidity in the Lightning Network](https://blog.muun.com/splices-and-liquidity-in-the-lightning-network/) | 10 |
+| [Submarine Swaps](https://blog.muun.com/a-closer-look-at-submarine-swaps-in-the-lightning-network/) | 15 |
+| [Loops](https://blog.lightning.engineering/posts/2019/03/20/loop.html) | 10 |
+| \(_optional_\) [Submarine swaps/ Loops](https://youtu.be/qixhNBIHDyE) | 50 |
+| [Splicing](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-rene-pickhardt-splicing/) | 30 |
+| [Splices and Liquidity in the Lightning Network](https://blog.muun.com/splices-and-liquidity-in-the-lightning-network/) | 15 |
 | [Dual funded channels](https://www.youtube.com/watch?v=i_GxmNZjwhk) (until min 26) | 26 |
-| [Liquidity Advertisements](https://medium.com/blockstream/lightnings-missing-piece-a-decentralized-liquidity-market-a0bb47534a4f) | 6 |
-| [Multi-party channels/Channel factories](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-28-christian-decker-multiparty-channels/) | 13 |
-| [Payment Points: Replacing HTLCs](https://suredbits.com/payment-points-part-1/) | 10 |
-| [Payment Points: "Stuckless" Payments](https://suredbits.com/payment-points-part-2-stuckless-payments/) | 10 |
-| [Peer Backups](https://medium.com/@ACINQ/phoenix-wallet-part-3-backup-f63a9470d4e7) | 5 |
+| [Liquidity Advertisements](https://medium.com/blockstream/lightnings-missing-piece-a-decentralized-liquidity-market-a0bb47534a4f) | 15 |
+| [Multi-party channels/Channel factories](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-28-christian-decker-multiparty-channels/) | 20 |
+| [Payment Points: Replacing HTLCs](https://suredbits.com/payment-points-part-1/) | 15 |
+| [Payment Points: "Stuckless" Payments](https://suredbits.com/payment-points-part-2-stuckless-payments/) | 15 |
+| [Peer Backups](https://medium.com/@ACINQ/phoenix-wallet-part-3-backup-f63a9470d4e7) | 10 |
 
 ## Discussion Questions
 

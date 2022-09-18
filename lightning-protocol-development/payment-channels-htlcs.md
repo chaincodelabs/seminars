@@ -4,19 +4,19 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [History of the Lightning Network](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-10-22-christian-decker-history-of-lightning/) | 50 |
-| [Lightning ≈ Bitcoin](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-10-22-christian-decker-lightning-bitcoin/) | 35 |
-| [Payment Channels video](https://www.youtube.com/watch?v=4SdBa8ZOfqg) or [Understanding Payment Channels article](https://blog.chainside.net/understanding-payment-channels-4ab018be79d4) | 6 or 10 |
-| [Creating a channel](https://ellemouton.com/posts/creating-a-channel/) | 10 |
-| [Updating State](https://ellemouton.com/posts/updating-state/) | 10 |
-| [Revocation in more detail](https://ellemouton.com/posts/revocation/) | 10 |
-| [Revocable transactions with LN-Penalty](https://www.derpturkey.com/revocable-transactions-with-ln-penalty/) | 10 |
-| [HTLC Overview](https://ellemouton.com/posts/htlc/) | 10 |
-| [HTLC Deep Dive](https://ellemouton.com/posts/htlc-deep-dive/) | 10 |
-| [Bitcoin Timelocks Explained](https://medium.com/summa-technology/bitcoins-time-locks-27e0c362d7a1) | 20 |
-| [Visualizing HTLCs and the Lightning Network's Dirty Little Secret](https://medium.com/@peter_r/visualizing-htlcs-and-the-lightning-networks-dirty-little-secret-cb9b5773a0) | 10 |
+| [History of the Lightning Network](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-10-22-christian-decker-history-of-lightning/) | 60 |
+| [Lightning ≈ Bitcoin](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-10-22-christian-decker-lightning-bitcoin/) | 45 |
+| [Payment Channels video](https://www.youtube.com/watch?v=4SdBa8ZOfqg) or [Understanding Payment Channels article](https://blog.chainside.net/understanding-payment-channels-4ab018be79d4) | 10 or 20 |
+| [Creating a channel](https://ellemouton.com/posts/creating-a-channel/) | 20 |
+| [Updating State](https://ellemouton.com/posts/updating-state/) | 20 |
+| [Revocation in more detail](https://ellemouton.com/posts/revocation/) | 20 |
+| [Revocable transactions with LN-Penalty](https://www.derpturkey.com/revocable-transactions-with-ln-penalty/) | 20 |
+| [HTLC Overview](https://ellemouton.com/posts/htlc/) | 20 |
+| [HTLC Deep Dive](https://ellemouton.com/posts/htlc-deep-dive/) | 20 |
+| [Bitcoin Timelocks Explained](https://medium.com/summa-technology/bitcoins-time-locks-27e0c362d7a1) | 30 |
+| [Visualizing HTLCs and the Lightning Network's Dirty Little Secret](https://medium.com/@peter_r/visualizing-htlcs-and-the-lightning-networks-dirty-little-secret-cb9b5773a0) | 20 |
 | [Lightning Network BOLT by BOLT](https://btctranscripts.com/misc/2018-07-24-la-blockchain-jim-posen-lightning-bolt-by-bolt/) \(up to demo - min 47\) | 47 |
-| \(optional video\) [Bitcoin Lightning Transactions & Protocol Deep Dive](https://www.youtube.com/watch?v=to8XItlplac) | 77 |
+| \(optional video\) [Bitcoin Lightning Transactions & Protocol Deep Dive](https://www.youtube.com/watch?v=to8XItlplac) | 90 |
 
 ## Discussion Questions
 

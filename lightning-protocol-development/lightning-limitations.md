@@ -4,19 +4,19 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [Lightning Network 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e#:~:text=Lightning%20Problem%201%3A%20Liquidity) \(starting at Lightning Problem 1: Liquidity\) | 20 |
-| [Lightning Limitations](http://btctranscripts.com/boltathon/2019-04-06-alex-bosworth-major-limitations/) | 35 |
-| [What Are Anchor Outputs?](https://fanismichalakis.fr/posts/anchor-outputs/) | 15 |
-| [Spamming the Lightning Network](https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md) | 30 |
-| [Limitations of lightweight clients](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-fabrice-drouin-limitations-of-lightweight-clients/) | 18 |
-| [Fee Management](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-fee-management/) | 20 |
-| [Incentive problems in the network](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-09-18-alex-bosworth-incentive-problems-in-the-lightning-network/) | 34 |
-| [Routing Failures](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-routing-failures/) | 20 |
-| [Griefing attacks](https://bitcoinmagazine.com/technical/good-griefing-a-lingering-vulnerability-on-lightning-network-that-still-needs-fixing) | 10 |
-| [Lightning Attack Vectors](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-attack-vectors-of-lightning-network/) | 30 |
-| [Pinning Attacks](https://github.com/t-bast/lightning-docs/blob/master/pinning-attacks.md) | 40 |
-| [Solutions to inbound capacity problem in Lightning Network](https://medium.com/lightningto-me/practical-solutions-to-inbound-capacity-problem-in-lightning-network-60224aa13393) | 10 |
-| [Channel probing in the face of parallel channels](https://s-tikhomirov.github.io/2021-03-27-lightning-probing/) \(the original post\)  | 25 |
+| [Lightning Network 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e#:~:text=Lightning%20Problem%201%3A%20Liquidity) \(starting at Lightning Problem 1: Liquidity\) | 30 |
+| [Lightning Limitations](http://btctranscripts.com/boltathon/2019-04-06-alex-bosworth-major-limitations/) | 45 |
+| [What Are Anchor Outputs?](https://fanismichalakis.fr/posts/anchor-outputs/) | 25 |
+| [Spamming the Lightning Network](https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md) | 40 |
+| [Limitations of lightweight clients](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-fabrice-drouin-limitations-of-lightweight-clients/) | 25 |
+| [Fee Management](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-fee-management/) | 30 |
+| [Incentive problems in the network](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-09-18-alex-bosworth-incentive-problems-in-the-lightning-network/) | 45 |
+| [Routing Failures](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-routing-failures/) | 30 |
+| [Griefing attacks](https://bitcoinmagazine.com/technical/good-griefing-a-lingering-vulnerability-on-lightning-network-that-still-needs-fixing) | 15 |
+| [Lightning Attack Vectors](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-attack-vectors-of-lightning-network/) | 40 |
+| [Pinning Attacks](https://github.com/t-bast/lightning-docs/blob/master/pinning-attacks.md) | 50 |
+| [Solutions to inbound capacity problem in Lightning Network](https://medium.com/lightningto-me/practical-solutions-to-inbound-capacity-problem-in-lightning-network-60224aa13393) | 20 |
+| [Channel probing in the face of parallel channels](https://s-tikhomirov.github.io/2021-03-27-lightning-probing/) \(the original post\)  | 35 |
 
 ## Discussion Questions
 
