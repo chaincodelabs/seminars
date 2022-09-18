@@ -34,6 +34,7 @@
 ### Spamming the Lightning Network
 
 1. What variables other than `htlc_minimum_msat` and `max_accepted_htlcs` could be tweaked to make it harder or less attractive for an attacker to try and lock up a channel?
+2. Can we differentiate between the useful messages like error and trial path finding versus spam like probes?
 
 ### Limitations of lightweight clients
 

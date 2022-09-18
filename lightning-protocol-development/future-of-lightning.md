@@ -27,7 +27,7 @@
 
 ### Breaking Down the Bitcoin Lightning Network: eltoo
 
-1. Why do we need SIGHASH\_NOINPUT for eltoo?
+1. Why do we need SIGHASH\_ANYPREVOUT for eltoo?
 2. What do HTLCs look like for an Eltoo channel?
 
 ### Eltoo and the Far Future
@@ -35,7 +35,7 @@
 1. How does a cooperative close work with Eltoo?
 2. Can channels using Eltoo or PTLC be mixed with standard channels in a multi-hop payment?
 3. Since all update transactions have the same shape, what's stopping earlier update txs from binding to later txs resetting to an old state?
-4. Why do settlement txs also need SIGHASH_NOINPUT?
+4. Why do settlement txs also need SIGHASH\_ANYPREVOUT?
 5. Would there ever be a reason to prefer LN-penalty when creating a channel between two Eltoo-capable nodes?
 
 ### Submarine swaps

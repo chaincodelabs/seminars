@@ -5,7 +5,9 @@
 | Content | Time \(min\) |
 | :--- | :--- |
 | [A walk through the layers of Lightning](https://btctranscripts.com/scalingbitcoin/tel-aviv-2019/edgedevplusplus/lightning-network-layer-by-layer/) | 40 |
-| [Uncover the Lightning Network Transactions](https://medium.com/@yyforyongyu/till-its-lightning-fast-uncover-the-lightning-network-transactions-f3180e467857) | 30 |
+| [Creating a channel](https://ellemouton.com/posts/creating-a-channel/) | 20 |
+| [Updating State](https://ellemouton.com/posts/updating-state/) | 20 |
+| [Revocation in more detail](https://ellemouton.com/posts/revocation/) | 20 |
 | [The Update Layer](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-rene-pickhardt-update-layer/) | 70 |
 | [The Transfer Layer](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-24-fabrice-drouin-the-transfer-layer/) | 50 |
 | [The Multihop Layer](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-24-rene-pickhardt-multihop-in-lightning/) | 80 |
@@ -21,6 +23,10 @@
 ### A walk through the layers of Lightning
 
 1. How does the LN-Penalty mechanism currently leak out of the update layer?
+
+### Creating a channel
+
+1. What factors should be considered before opening a Lightning channel with a peer?
 
 ### The Update Layer
 
