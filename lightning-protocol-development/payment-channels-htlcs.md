@@ -5,6 +5,7 @@
 | Content | Time \(min\) |
 | :--- | :--- |
 | [History of the Lightning Network](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-10-22-christian-decker-history-of-lightning/) | 60 |
+| [A Brief History of Payment Channels: from Satoshi to Lightning Network](https://old.reddit.com/r/Bitcoin/comments/cc9psl/technical_a_brief_history_of_payment_channels/) | 30 |
 | [Lightning ≈ Bitcoin](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-10-22-christian-decker-lightning-bitcoin/) | 45 |
 | [Payment Channels video](https://www.youtube.com/watch?v=4SdBa8ZOfqg) or [Understanding Payment Channels article](https://blog.chainside.net/understanding-payment-channels-4ab018be79d4) | 10 or 20 |
 | [Creating a channel](https://ellemouton.com/posts/creating-a-channel/) | 20 |
