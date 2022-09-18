@@ -7,6 +7,7 @@
 | [What is SegWit?](https://bitcoinmagazine.com/guides/what-is-segwit) | 10 |
 | [SegWit in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc#segregated-witness) or [SegWit video w/ Jimmy Song](https://www.youtube.com/watch?v=Txfy2mFe16A) | 40 |
 | [Transaction Malleability](https://eklitzke.org/bitcoin-transaction-malleability) | 20 |
+| \(_optional_\) [Inherent Malleability of ECDSA Signatures](https://www.derpturkey.com/inherent-malleability-of-ecdsa-signatures/) | 15 |
 | [SegWit Benefits](https://bitcoincore.org/en/2016/01/26/segwit-benefits/) | 20 |
 | \(_optional_\) [How SegWit solved the quadratic sighash problem](https://fjahr.com/posts/how-segwit-solved-the-quadratic-sighash-problem/) | 15 |
 | [SegWit's Impact on Scalability](https://btctranscripts.com/scalingbitcoin/hong-kong-2015/segregated-witness-and-its-impact-on-scalability/) | 40 |

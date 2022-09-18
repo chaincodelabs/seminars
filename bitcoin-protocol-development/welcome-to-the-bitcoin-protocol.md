@@ -47,7 +47,7 @@
 1. Define the differences between a full node, pruned node, and an SPV node?
 2. What are the incentives to run a full node? If I do run a full node, why accept incoming connections given that they come at a cost? What might those costs be?
 3. What is the difference between the block propagation network and the transaction relay network? How does participating in one or the other impact your definition of a full node?
-4. What are checkpoints and why might we use them?
+4. What are checkpoints and do we need them?
 
 ### Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages
 
