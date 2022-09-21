@@ -4,15 +4,15 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [Bitcoin Whitepaper](https://chaincode.com/bitcoin.pdf) | 20 |
-| [Bitcoin Whitepaper Errata and Details](https://gist.github.com/harding/dabea3d83c695e6b937bf090eddf2bb3) | 15 |
-| [The Incomplete History of Bitcoin Development](https://b10c.me/blog/004-the-incomplete-history-of-bitcoin-development/) | 10 |
-| [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) | 25 |
-| [If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/) | 10 |
-| [Bitcoin's Security Model: A Deep Dive](https://www.coindesk.com/bitcoins-security-model-deep-dive) | 15 |
-| [The Onion Model of Blockchain Security](https://insights.deribit.com/market-research/the-onion-model-of-blockchain-security-part-1/) | 7 |
-| [Security Models with John Newbery](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-17-john-newbery-security-models/) | 45 |
-| [Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages](https://www.reddit.com/r/Bitcoin/comments/438hx0/a_trip_to_the_moon_requires_a_rocket_with/) | 15 |
+| [Bitcoin Whitepaper](https://chaincode.com/bitcoin.pdf) | 30 |
+| [Bitcoin Whitepaper Errata and Details](https://gist.github.com/harding/dabea3d83c695e6b937bf090eddf2bb3) | 20 |
+| [The Incomplete History of Bitcoin Development](https://b10c.me/blog/004-the-incomplete-history-of-bitcoin-development/) | 15 |
+| [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559) | 30 |
+| [If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/) | 15 |
+| [Bitcoin's Security Model: A Deep Dive](https://www.coindesk.com/bitcoins-security-model-deep-dive) | 20 |
+| [The Onion Model of Blockchain Security](https://insights.deribit.com/market-research/the-onion-model-of-blockchain-security-part-1/) | 10 |
+| [Security Models with John Newbery](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-17-john-newbery-security-models/) | 60 |
+| [Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages](https://www.reddit.com/r/Bitcoin/comments/438hx0/a_trip_to_the_moon_requires_a_rocket_with/) | 20 |
 
 ## Discussion Questions
 
@@ -47,7 +47,7 @@
 1. Define the differences between a full node, pruned node, and an SPV node?
 2. What are the incentives to run a full node? If I do run a full node, why accept incoming connections given that they come at a cost? What might those costs be?
 3. What is the difference between the block propagation network and the transaction relay network? How does participating in one or the other impact your definition of a full node?
-4. What are checkpoints and why might we use them?
+4. What are checkpoints and do we need them?
 
 ### Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages
 

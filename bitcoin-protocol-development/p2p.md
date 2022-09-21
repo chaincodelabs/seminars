@@ -6,14 +6,14 @@ _Note that this section depends on reviewing the network propagation resources o
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [Map of the Bitcoin Network](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3) | 20 |
-| Attacking p2p of Bitcoin Core w/ Amiti Uttarwar \([video \(until min 41\)](https://youtu.be/H-wH6mY9pZo?t=257) or [transcript](https://btctranscripts.com/la-bitdevs/2020-04-16-amiti-uttarwar-attacking-bitcoin-core/)\) | 35 |
-| [The Bitcoin p2p Network with John Newbery](https://btctranscripts.com/scalingbitcoin/stanford-2017/edgeplusplus/p2p-john-newbery/) | 50 |
-| [The Bitcoin Network in Mastering Bitcoin \(start at Network Discovery section\)](https://github.com/bitcoinbook/bitcoinbook/blob/b5a7b5df3eddb332311ed97af09b678257ce62ca/ch08.asciidoc#network-discovery) | 15 |
-| [Network partition resistance](https://gist.github.com/sdaftuar/c2a3320c751efb078a7c1fd834036cb0) | 15 |
-| [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://eprint.iacr.org/2015/263.pdf) | 60 |
-| [Network partitioning & network level privacy attacks](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-12-ethan-heilman-network-partitioning-attacks/) | 40 |
-| \(_optional_\) [Transport Encryption & BIP 324](https://bip324.com/) | 10 |
+| [Map of the Bitcoin Network](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3) | 25 |
+| Attacking p2p of Bitcoin Core w/ Amiti Uttarwar \([video \(until min 41\)](https://youtu.be/H-wH6mY9pZo?t=257) or [transcript](https://btctranscripts.com/la-bitdevs/2020-04-16-amiti-uttarwar-attacking-bitcoin-core/)\) | 45 |
+| [The Bitcoin p2p Network with John Newbery](https://btctranscripts.com/scalingbitcoin/stanford-2017/edgeplusplus/p2p-john-newbery/) | 60 |
+| [The Bitcoin Network in Mastering Bitcoin \(start at Network Discovery section\)](https://github.com/bitcoinbook/bitcoinbook/blob/b5a7b5df3eddb332311ed97af09b678257ce62ca/ch08.asciidoc#network-discovery) | 20 |
+| [Network partition resistance](https://gist.github.com/sdaftuar/c2a3320c751efb078a7c1fd834036cb0) | 20 |
+| [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://eprint.iacr.org/2015/263.pdf) | 75 |
+| [Network partitioning & network level privacy attacks](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-12-ethan-heilman-network-partitioning-attacks/) | 50 |
+| \(_optional_\) [Transport Encryption & BIP 324](https://bip324.com/) | 15 |
 | \(_optional_\) [Researching P2P privacy attacks](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-10-09-giulia-fanti-p2p-privacy-attacks/) | 90 |
 
 ## Optional Practical Exercise
