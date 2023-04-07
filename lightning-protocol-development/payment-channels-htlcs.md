@@ -15,6 +15,7 @@
 | [Bitcoin Timelocks Explained](https://medium.com/summa-technology/bitcoins-time-locks-27e0c362d7a1) | 30 |
 | [Visualizing HTLCs and the Lightning Network's Dirty Little Secret](https://medium.com/@peter_r/visualizing-htlcs-and-the-lightning-networks-dirty-little-secret-cb9b5773a0) | 20 |
 | [Lightning Network BOLT by BOLT](https://btctranscripts.com/misc/2018-07-24-la-blockchain-jim-posen-lightning-bolt-by-bolt/) \(up to demo - min 47\) | 47 |
+| \(optional\) [An Overview of Lightning Network Implementations](https://medium.com/@fulgur.ventures/an-overview-of-lightning-network-implementations-d670255a6cfa) | 25 |
 | \(optional video\) [Bitcoin Lightning Transactions & Protocol Deep Dive](https://www.youtube.com/watch?v=to8XItlplac) | 90 |
 
 ## Discussion Questions

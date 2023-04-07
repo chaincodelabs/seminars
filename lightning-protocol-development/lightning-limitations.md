@@ -4,8 +4,10 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
+| [Lightning is broken](https://www.youtube.com/watch?v=s9KMRWkcwtE) | 60 |
 | [Lightning Network 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e#:~:text=Lightning%20Problem%201%3A%20Liquidity) \(starting at Lightning Problem 1: Liquidity\) | 30 |
 | [Lightning Limitations](http://btctranscripts.com/boltathon/2019-04-06-alex-bosworth-major-limitations/) | 45 |
+| [The price of anarchy](https://blog.bitmex.com/price-of-anarchy-from-selfish-routing-strategies/) | 30 |
 | [What Are Anchor Outputs?](https://fanismichalakis.fr/posts/anchor-outputs/) | 25 |
 | [Spamming the Lightning Network](https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md) | 40 |
 | [Limitations of lightweight clients](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-fabrice-drouin-limitations-of-lightweight-clients/) | 25 |
@@ -16,7 +18,8 @@
 | [Lightning Attack Vectors](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-attack-vectors-of-lightning-network/) | 40 |
 | [Pinning Attacks](https://github.com/t-bast/lightning-docs/blob/master/pinning-attacks.md) | 50 |
 | [Solutions to inbound capacity problem in Lightning Network](https://medium.com/lightningto-me/practical-solutions-to-inbound-capacity-problem-in-lightning-network-60224aa13393) | 20 |
-| [Channel probing in the face of parallel channels](https://s-tikhomirov.github.io/2021-03-27-lightning-probing/) \(the original post\)  | 35 |
+| [Unjamming Lightning](https://research.chaincode.com/2022/11/15/unjamming-lightning/)  | 25 |
+| \(optional\) [Jamming Book](https://jamming-dev.github.io/book/about.html) | 30 |
 
 ## Discussion Questions
 
