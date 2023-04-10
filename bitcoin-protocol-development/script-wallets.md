@@ -19,6 +19,7 @@
 | \(_optional_\) Native Descriptor Wallets - [gist](https://gist.github.com/achow101/94d889715afd49181f8efdca1f9faa25) or [presentation](https://btctranscripts.com/advancing-bitcoin/2020/2020-02-06-andrew-chow-descriptor-wallets/) | 15 or 20 |
 | [Schnorr Signatures & The Inevitability of Privacy in Bitcoin](https://medium.com/digitalassetresearch/schnorr-signatures-the-inevitability-of-privacy-in-bitcoin-b2f45a1f7287) | 20 |
 | \(_optional_\) [MuSig-DN: Schnorr Multisignatures with Verifiably Deterministic Nonces](https://medium.com/blockstream/musig-dn-schnorr-multisignatures-with-verifiably-deterministic-nonces-27424b5df9d6) | 15 |
+| [Taproot Explained \(_video_\)](https://www.youtube.com/watch?v=d82-MPwpiYs) | 15 |
 | [Overview of the Taproot & Tapscript BIPs](https://bitcoinops.org/en/newsletters/2019/05/14/#overview-of-the-taproot--tapscript-proposed-bips) | 25 |
 | [Scriptless Scripts](https://bitcoinmagazine.com/articles/scriptless-scripts-how-bitcoin-can-support-smart-contracts-without-smart-contracts) | 15 |
 | \(_optional_\) [Optech Series: Preparing for Taproot](https://bitcoinops.org/en/preparing-for-taproot/) | 70 |
@@ -26,6 +27,7 @@
 
 ## Optional Practical Exercise
 
+* [Taproot, sighash, timelock transaction exercises (chapters 3-5)](https://github.com/chaincodelabs/bitcoin-tx-tutorial)
 * [Taproot workshop by Bitcoin Optech Group](https://bitcoinops.org/en/schorr-taproot-workshop/) \(3+ hours\)
 
 ## Discussion Questions

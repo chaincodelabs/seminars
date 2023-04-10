@@ -18,6 +18,10 @@
 | [SegWit Wallet Development](https://bitcoincore.org/en/segwit_wallet_dev/) | 15 |
 | \(_optional_\) [Bech32](https://btctranscripts.com/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/) | 40 |
 
+## Optional Practical Exercise
+
+* [SegWit transaction exercises (chapters 1 & 2)](https://github.com/chaincodelabs/bitcoin-tx-tutorial)
+
 ## Discussion Questions
 
 ### What is SegWit?
