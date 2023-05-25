@@ -39,8 +39,7 @@
 ### Output Descriptors
 
 1. What is the benefit of using output descriptors?
-2. Are there any use cases for p2sh-wsh-p2pkh descriptors?
-3. What's about miniscript? Interactions with descriptors?
+2. How does miniscript interact with descriptors?
 
 ### HD Wallets
 
