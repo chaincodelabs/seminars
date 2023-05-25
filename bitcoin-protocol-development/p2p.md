@@ -34,7 +34,6 @@ _Note that this section depends on reviewing the network propagation resources o
 2. What is the rationale behind the "new"/"tried" table design? Were there any prior inspirations within the field of distributed computing?
 3. How are anchor connections chosen? In what circumstances would you evict or change them?
 4. What are feeler connections, and when are they used?
-5. How many honest nodes does a node need to connect to ensure it is connected to the right network/blockchain?
 
 ### Eclipse Attacks on Bitcoin’s Peer-to-Peer Network
 
