@@ -19,6 +19,7 @@ If you haven't recently read the [Mining and Consensus chapter in Mastering Bitc
 | [Demystifying The Selfish Mining Bet](https://eklitzke.org/demystifying-the-selfish-mining-bet) | 15 |
 | [Mining pools](https://en.wikipedia.org/wiki/Mining_pool) | 20 |
 | [Overview of the covert AsicBoost allegation](https://blog.bitmex.com/an-overview-of-the-covert-asicboost-allegation-2/) | 20 |
+| [Transaction standardness; motivations and spec](https://gist.github.com/instagibbs/ee32be0126ec132213205b25b80fb3e8) | 10 |
 
 ## Optional Practical Exercise
 
@@ -35,6 +36,7 @@ If you haven't recently read the [Mining and Consensus chapter in Mastering Bitc
 5. In your opinion, is it a good or bad thing that specialized hardware is now needed to mine bitcoin rather than letting individual users participate in that part of the ecosystem?
 6. Consider the following scenario: Segwit2x didn’t happen \(or miners didn’t throw in support for it\) and UASF \(BIP148\) ended up causing a chain split on August 1st, 2017, with minority mining support \(e.g. ~10-20%\). What would likely happen as a result?
 7. Can you ensure the transaction will be processed even if you send it with low fees? Which mechanisms do you have to ensure a stuck transaction (due to low fees) gets processed?
+8. Some mempool divergence is natural in a decentralized system. What negative side effects might we incur if the level of mempool divergence between nodes becomes "too high"? Consider other stack layers (P2P, wallet, validation etc.). What level of divergence do you think the system can safely tolerate?
 
 ### Advances in Block Propagation
 
