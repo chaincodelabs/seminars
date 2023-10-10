@@ -13,7 +13,7 @@
 | [HD Wallets](https://learnmeabitcoin.com/technical/hd-wallets) | 15 |
 | [Mnemonic Code Converter](https://iancoleman.io/bip39/) | x |
 | [Coin Selection](https://btctranscripts.com/scalingbitcoin/tokyo-2018/edgedevplusplus/coin-selection/) | 25 |
-| [An Introduction to Bitcoin Core Fee Estimation](https://bitcointechtalk.com/an-introduction-to-bitcoin-core-fee-estimation-27920880ad0) | 15 |
+| [An Introduction to Bitcoin Core Fee Estimation](https://medium.com/bitcoin-tech-talk/an-introduction-to-bitcoin-core-fee-estimation-27920880ad0) | 15 |
 | [Fee Bumping and RBF](https://github.com/bitcoinops/scaling-book/blob/add_rbf/1.fee_bumping/fee_bumping.md) | 25 |
 | \(_optional_\) [PSBT with Andrew Chow](https://btctranscripts.com/sf-bitcoin-meetup/2019-03-15-partially-signed-bitcoin-transactions) | 25 |
 | \(_optional_\) Native Descriptor Wallets - [gist](https://gist.github.com/achow101/94d889715afd49181f8efdca1f9faa25) or [presentation](https://btctranscripts.com/advancing-bitcoin/2020/2020-02-06-andrew-chow-descriptor-wallets/) | 15 or 20 |
