@@ -13,7 +13,7 @@
 | [Submarine Swaps](https://blog.muun.com/a-closer-look-at-submarine-swaps-in-the-lightning-network/) | 15 |
 | [Splicing](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-rene-pickhardt-splicing/) | 30 |
 | [Splices and Liquidity in the Lightning Network](https://blog.muun.com/splices-and-liquidity-in-the-lightning-network/) | 15 |
-| [Dual funded channels](https://www.youtube.com/watch?v=i_GxmNZjwhk) (until min 26) | 26 |
+| [Dual funded channels](https://btctranscripts.com/c-lightning/dual-funded-channels/) (until min 26) | 26 |
 | [Liquidity Advertisements](https://medium.com/blockstream/lightnings-missing-piece-a-decentralized-liquidity-market-a0bb47534a4f) | 15 |
 | [Multi-party channels/Channel factories](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-28-christian-decker-multiparty-channels/) | 20 |
 | [Payment Points: Replacing HTLCs](https://suredbits.com/payment-points-part-1/) | 15 |
