@@ -8,7 +8,7 @@ _Note that this section depends on reviewing the network propagation resources o
 | :--- | :--- |
 | [Map of the Bitcoin Network](https://medium.com/@gloriazhao/map-of-the-bitcoin-network-c6f2619a76f3) | 25 |
 | Attacking p2p of Bitcoin Core w/ Amiti Uttarwar \([video \(until min 41\)](https://youtu.be/H-wH6mY9pZo?t=257) or [transcript](https://btctranscripts.com/la-bitdevs/2020-04-16-amiti-uttarwar-attacking-bitcoin-core/)\) | 45 |
-| [The Bitcoin p2p Network](https://btctranscripts.com/scalingbitcoin/stanford-2017/edgeplusplus/p2p-john-newbery/) | 60 |
+| [The Bitcoin p2p Network](https://btctranscripts.com/edgedevplusplus/2017/p2p-john-newbery/) | 60 |
 | [The Bitcoin Network in Mastering Bitcoin \(start at Network Discovery section\)](https://github.com/bitcoinbook/bitcoinbook/blob/b5a7b5df3eddb332311ed97af09b678257ce62ca/ch08.asciidoc#network-discovery) | 20 |
 | [Network partition resistance](https://gist.github.com/sdaftuar/c2a3320c751efb078a7c1fd834036cb0) | 20 |
 | [Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://eprint.iacr.org/2015/263.pdf) | 75 |
