@@ -11,7 +11,7 @@
 | [SegWit Benefits](https://bitcoincore.org/en/2016/01/26/segwit-benefits/) | 20 |
 | \(_optional_\) [How SegWit solved the quadratic sighash problem](https://fjahr.com/posts/how-segwit-solved-the-quadratic-sighash-problem/) | 15 |
 | [SegWit's Impact on Scalability](https://btctranscripts.com/scalingbitcoin/hong-kong-2015/segregated-witness-and-its-impact-on-scalability/) | 40 |
-| [Advanced SegWit w/ James O'Beirne](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-18-james-obeirne-advanced-segwit/) | 70 |
+| [Advanced SegWit w/ James O'Beirne](https://btctranscripts.com/chaincode-residency/2019-06-18-james-obeirne-advanced-segwit) | 70 |
 | [SegWit Costs](https://bitcoincore.org/en/2016/10/28/segwit-costs/) | 30 |
 | [Inhibiting a covert attack on the Bitcoin POW function](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2017-April/013996.html) | 20 |
 | [The Long Road to SegWit](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/) | 25 |
