@@ -8,10 +8,10 @@
 | [Creating a channel](https://ellemouton.com/posts/creating-a-channel/) | 20 |
 | [Updating State](https://ellemouton.com/posts/updating-state/) | 20 |
 | [Revocation in more detail](https://ellemouton.com/posts/revocation/) | 20 |
-| [The Update Layer](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-rene-pickhardt-update-layer/) | 70 |
-| [The Transfer Layer](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-24-fabrice-drouin-the-transfer-layer/) | 50 |
-| [The Multihop Layer](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-24-rene-pickhardt-multihop-in-lightning/) | 80 |
-| [The other layers \(base and transport\)](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-24-fabrice-drouin-base-and-transport-layers-of-lightning-network/) | 25 |
+| [The Update Layer](https://btctranscripts.com/chaincode-residency/2019-06-26-rene-pickhardt-update-layer/) | 70 |
+| [The Transfer Layer](https://btctranscripts.com/chaincode-residency/2019-06-24-fabrice-drouin-the-transfer-layer/) | 50 |
+| [The Multihop Layer](https://btctranscripts.com/chaincode-residency/2019-06-24-rene-pickhardt-multihop-in-lightning/) | 80 |
+| [The other layers \(base and transport\)](https://btctranscripts.com/chaincode-residency/2019-06-24-fabrice-drouin-base-and-transport-layers-of-lightning-network/) | 25 |
 | [Message format](https://github.com/lightning/bolts/blob/master/01-messaging.md#lightning-message-format) | 10 |
 | [Ok to be odd](https://github.com/lightning/bolts/blob/caae842bfcadd144ab3ec7ce74c317dca07ac78c/00-introduction.md#its-ok-to-be-odd) | 5 |
 | [TLV streams](https://github.com/lightning/bolts/blob/master/01-messaging.md#type-length-value-format) | 15 |

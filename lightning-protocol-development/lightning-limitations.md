@@ -10,12 +10,12 @@
 | [The price of anarchy](https://blog.bitmex.com/price-of-anarchy-from-selfish-routing-strategies/) | 30 |
 | [What Are Anchor Outputs?](https://fanismichalakis.fr/posts/anchor-outputs/) | 25 |
 | [Spamming the Lightning Network](https://github.com/t-bast/lightning-docs/blob/master/spam-prevention.md) | 40 |
-| [Limitations of lightweight clients](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-fabrice-drouin-limitations-of-lightweight-clients/) | 25 |
-| [Fee Management](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-fee-management/) | 30 |
-| [Incentive problems in the network](https://btctranscripts.com/chaincode-labs/chaincode-residency/2018-09-18-alex-bosworth-incentive-problems-in-the-lightning-network/) | 45 |
-| [Routing Failures](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-routing-failures/) | 30 |
+| [Limitations of lightweight clients](https://btctranscripts.com/chaincode-residency/2019-06-26-fabrice-drouin-limitations-of-lightweight-clients/) | 25 |
+| [Fee Management](https://btctranscripts.com/chaincode-residency/2019-06-25-fabrice-drouin-fee-management/) | 30 |
+| [Incentive problems in the network](https://btctranscripts.com/chaincode-residency/2018-09-18-alex-bosworth-incentive-problems-in-the-lightning-network/) | 45 |
+| [Routing Failures](https://btctranscripts.com/chaincode-residency/2019-06-25-fabrice-drouin-routing-failures/) | 30 |
 | [Griefing attacks](https://bitcoinmagazine.com/technical/good-griefing-a-lingering-vulnerability-on-lightning-network-that-still-needs-fixing) | 15 |
-| [Lightning Attack Vectors](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-fabrice-drouin-attack-vectors-of-lightning-network/) | 40 |
+| [Lightning Attack Vectors](https://btctranscripts.com/chaincode-residency/2019-06-25-fabrice-drouin-attack-vectors-of-lightning-network/) | 40 |
 | [Pinning Attacks](https://github.com/t-bast/lightning-docs/blob/master/pinning-attacks.md) | 50 |
 | [Solutions to inbound capacity problem in Lightning Network](https://medium.com/lightningto-me/practical-solutions-to-inbound-capacity-problem-in-lightning-network-60224aa13393) | 20 |
 | [Unjamming Lightning](https://research.chaincode.com/2022/11/15/unjamming-lightning/)  | 25 |
