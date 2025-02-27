@@ -6,16 +6,16 @@
 | :--- | :--- |
 | [Breaking Down the Bitcoin Lightning Network: eltoo](https://medium.com/@brandonarvanaghi/breaking-down-the-bitcoin-lightning-network-eltoo-c48554f5ae02) | 15 |
 | [Eltoo by fiatjaf](https://fiatjaf.com/ffdfe772.html) | 15 |
-| \(_optional_\) [Eltoo and the Far Future](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-25-christian-decker-eltoo/) | 40 |
+| \(_optional_\) [Eltoo and the Far Future](https://btctranscripts.com/chaincode-residency/2019-06-25-christian-decker-eltoo/) | 40 |
 | \(_optional_\) [Eltoo whitepaper]( https://blockstream.com/eltoo.pdf) | 60 |
 | \(_optional_\) [Onion Messages](https://github.com/lightning/bolts/pull/759) | X |
 | [AMP/Offers/LNURL](https://vimeo.com/703262308) | 30 |
 | [Submarine Swaps](https://blog.muun.com/a-closer-look-at-submarine-swaps-in-the-lightning-network/) | 15 |
-| [Splicing](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-26-rene-pickhardt-splicing/) | 30 |
+| [Splicing](https://btctranscripts.com/chaincode-residency/2019-06-26-rene-pickhardt-splicing/) | 30 |
 | [Splices and Liquidity in the Lightning Network](https://blog.muun.com/splices-and-liquidity-in-the-lightning-network/) | 15 |
 | [Dual funded channels](https://btctranscripts.com/c-lightning/dual-funded-channels/) (until min 26) | 26 |
 | [Liquidity Advertisements](https://medium.com/blockstream/lightnings-missing-piece-a-decentralized-liquidity-market-a0bb47534a4f) | 15 |
-| [Multi-party channels/Channel factories](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-28-christian-decker-multiparty-channels/) | 20 |
+| [Multi-party channels/Channel factories](https://btctranscripts.com/chaincode-residency/2019-06-28-christian-decker-multiparty-channels/) | 20 |
 | [Payment Points: Replacing HTLCs](https://suredbits.com/payment-points-part-1/) | 15 |
 | [Payment Points: "Stuckless" Payments](https://suredbits.com/payment-points-part-2-stuckless-payments/) | 15 |
 | [Peer Backups](https://medium.com/@ACINQ/phoenix-wallet-part-3-backup-f63a9470d4e7) | 10 |

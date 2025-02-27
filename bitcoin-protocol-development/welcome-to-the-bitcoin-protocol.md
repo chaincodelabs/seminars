@@ -11,7 +11,7 @@
 | [If I'd Known What We Were Starting](https://www.linkedin.com/pulse/id-known-what-we-were-starting-ray-dillinger/) | 15 |
 | [Bitcoin's Security Model: A Deep Dive](https://www.coindesk.com/bitcoins-security-model-deep-dive) | 20 |
 | [The Onion Model of Blockchain Security](https://insights.deribit.com/market-research/the-onion-model-of-blockchain-security-part-1/) | 10 |
-| [Security Models with John Newbery](https://btctranscripts.com/chaincode-labs/chaincode-residency/2019-06-17-john-newbery-security-models/) | 60 |
+| [Security Models with John Newbery](https://btctranscripts.com/chaincode-residency/2019-06-17-john-newbery-security-models) | 60 |
 | [Scaling Bitcoin: A trip to the moon requires a rocket with multiple stages](https://www.reddit.com/r/Bitcoin/comments/438hx0/a_trip_to_the_moon_requires_a_rocket_with/) | 20 |
 
 ## Discussion Questions

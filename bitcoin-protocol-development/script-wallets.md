@@ -4,7 +4,7 @@
 
 | Content | Time \(min\) |
 | :--- | :--- |
-| [Bitcoin Script: Past and Future](https://btctranscripts.com/chaincode-labs/2020-04-08-john-newbery-contracts-in-bitcoin/) | 35 |
+| [Bitcoin Script: Past and Future](https://btctranscripts.com/misc/2020-04-08-john-newbery-contracts-in-bitcoin) | 35 |
 | [Script: A Mini Programming Language](https://learnmeabitcoin.com/technical/script) | 15 |
 | [Scripts \(general & simple\)](https://btctranscripts.com/scalingbitcoin/tokyo-2018/edgedevplusplus/scripts-general-and-simple/) | 40 |
 | [Miniscript: Streamlined Bitcoin Scripting](https://medium.com/blockstream/miniscript-bitcoin-scripting-3aeff3853620) | 15 |
